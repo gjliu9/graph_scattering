@@ -1,0 +1,35 @@
+[14:11:22.000] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[14:12:32.068] n_estimators 3 Classification accuracy 0 : 
+[14:12:32.244] n_estimators 10 Classification accuracy 0 : 
+[14:12:32.581] n_estimators 20 Classification accuracy 0 : 
+[14:12:33.059] n_estimators 30 Classification accuracy 0 : 
+[14:12:33.879] n_estimators 50 Classification accuracy 0 : 
+[14:12:34.982] n_estimators 70 Classification accuracy 0 : 
+[14:12:36.494] n_estimators 100 Classification accuracy 0 : 
+[14:12:41.275] n_estimators 300 Classification accuracy 0 : 
+[14:12:57.102] n_estimators 1000 Classification accuracy 0 : 
+[14:13:29.033] n_estimators 2000 Classification accuracy 0 : 
+[14:14:59.284] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[14:15:31.318] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[14:16:36.483] n_estimators 3 Classification accuracy 0.691892 : 
+[14:16:36.651] n_estimators 10 Classification accuracy 0.708108 : 
+[14:16:36.988] n_estimators 20 Classification accuracy 0.740541 : 
+[14:16:37.463] n_estimators 30 Classification accuracy 0.713514 : 
+[14:16:38.293] n_estimators 50 Classification accuracy 0.729730 : 
+[14:16:39.474] n_estimators 70 Classification accuracy 0.724324 : 
+[14:16:41.089] n_estimators 100 Classification accuracy 0.724324 : 
+[14:16:46.004] n_estimators 300 Classification accuracy 0.729730 : 
+[14:17:02.614] n_estimators 1000 Classification accuracy 0.745946 : 
+[14:17:35.854] n_estimators 2000 Classification accuracy 0.735135 : 
+[14:19:20.115] n_estimators 6000 Classification accuracy 0.745946 : 
+[14:19:20.116] Start testing
+[14:19:37.574] best_estimators 1000 Classification accuracy 0.758065 : 
+[14:19:37.574] Time used for RF classification: 17 
+[14:19:54.187] best_estimators 1000 Classification accuracy 0.779570 : 
+[14:19:54.187] Time used for RF classification: 16 
+[14:20:10.802] best_estimators 1000 Classification accuracy 0.758065 : 
+[14:20:10.803] Time used for RF classification: 16 
+[14:20:27.657] best_estimators 1000 Classification accuracy 0.752688 : 
+[14:20:27.658] Time used for RF classification: 16 
+[14:20:44.061] best_estimators 1000 Classification accuracy 0.747312 : 
+[14:20:44.061] Time used for RF classification: 16 

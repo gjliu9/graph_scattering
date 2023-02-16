@@ -1,0 +1,266 @@
+[14:30:57.398] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[14:33:01.738] n_estimators 2000 Classification accuracy 0.745946 : 
+[14:33:01.738] Start testing
+[14:33:33.975] best_estimators 2000 Classification accuracy 0.752688 : 
+[14:33:33.975] Time used for RF classification: 32 
+[14:34:06.751] best_estimators 2000 Classification accuracy 0.779570 : 
+[14:34:06.751] Time used for RF classification: 32 
+[14:34:39.144] best_estimators 2000 Classification accuracy 0.752688 : 
+[14:34:39.145] Time used for RF classification: 32 
+[14:35:11.648] best_estimators 2000 Classification accuracy 0.752688 : 
+[14:35:11.648] Time used for RF classification: 32 
+[14:35:44.005] best_estimators 2000 Classification accuracy 0.747312 : 
+[14:35:44.005] Time used for RF classification: 32 
+[14:49:00.794] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[14:51:12.885] Start testing
+[14:58:27.536] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[15:00:30.169] Start testing
+[15:02:21.200] best_estimators 6000 Classification accuracy 0.741935 : 
+[15:02:21.200] Time used for RF classification: 111 
+[15:04:14.223] best_estimators 6000 Classification accuracy 0.734767 : 
+[15:04:14.223] Time used for RF classification: 113 
+[15:06:09.731] best_estimators 6000 Classification accuracy 0.745520 : 
+[15:06:09.732] Time used for RF classification: 115 
+[15:08:04.084] best_estimators 6000 Classification accuracy 0.741935 : 
+[15:08:04.085] Time used for RF classification: 114 
+[15:09:49.145] best_estimators 6000 Classification accuracy 0.738351 : 
+[15:09:49.145] Time used for RF classification: 105 
+[16:58:11.666] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[17:00:09.198] Start testing
+[17:00:48.341] best_estimators 6000 Classification accuracy 0.741935 : 
+[17:00:48.341] Time used for RF classification: 39 
+[17:01:25.832] best_estimators 6000 Classification accuracy 0.738351 : 
+[17:01:25.832] Time used for RF classification: 37 
+[17:02:03.752] best_estimators 6000 Classification accuracy 0.741935 : 
+[17:02:03.753] Time used for RF classification: 37 
+[17:02:42.338] best_estimators 6000 Classification accuracy 0.734767 : 
+[17:02:42.338] Time used for RF classification: 38 
+[17:03:20.434] best_estimators 6000 Classification accuracy 0.741935 : 
+[17:03:20.434] Time used for RF classification: 38 
+[20:39:56.306] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[20:43:12.193] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[20:44:50.321] Start testing
+[20:45:27.676] best_estimators 6000 Classification accuracy 0.738351 : 
+[20:45:27.679] Time used for RF classification: 37 
+[20:46:05.423] best_estimators 6000 Classification accuracy 0.734767 : 
+[20:46:05.424] Time used for RF classification: 37 
+[20:46:44.003] best_estimators 6000 Classification accuracy 0.734767 : 
+[20:46:44.004] Time used for RF classification: 38 
+[20:47:22.574] best_estimators 6000 Classification accuracy 0.734767 : 
+[20:47:22.575] Time used for RF classification: 38 
+[20:48:01.726] best_estimators 6000 Classification accuracy 0.734767 : 
+[20:48:01.726] Time used for RF classification: 39 
+[23:46:19.153] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[23:47:38.504] Start testing
+[23:50:48.137] best_estimators 10000 Classification accuracy 0.738351 : 
+[23:50:48.137] Time used for RF classification: 189 
+[23:53:58.004] best_estimators 10000 Classification accuracy 0.734767 : 
+[23:53:58.004] Time used for RF classification: 189 
+[23:59:35.375] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=2, variation=2, waytogetphi='generate', workers=1)
+[00:00:53.115] Start testing
+[00:03:59.728] best_estimators 10000 Classification accuracy 0.741935 : 
+[00:03:59.728] Time used for RF classification: 186 
+[00:07:06.700] best_estimators 10000 Classification accuracy 0.738351 : 
+[00:07:06.700] Time used for RF classification: 186 
+[00:07:06.700] n_estimators 10000 mean test accuracy 0.740143 : 
+[00:22:33.313] best_estimators 50000 Classification accuracy 0.738351 : 
+[00:22:33.313] Time used for RF classification: 926 
+[00:38:11.403] best_estimators 50000 Classification accuracy 0.738351 : 
+[00:38:11.403] Time used for RF classification: 937 
+[00:38:11.403] n_estimators 50000 mean test accuracy 0.738351 : 
+[00:45:19.991] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[01:01:17.103] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[02:03:39.255] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[02:11:36.873] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[02:14:36.686] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[02:15:37.217] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[02:16:54.300] Start testing
+[02:19:52.314] best_estimators 10000 Classification accuracy 0.741935 : 
+[02:19:52.314] Time used for RF classification: 178 
+[02:22:51.164] best_estimators 10000 Classification accuracy 0.738351 : 
+[02:22:51.164] Time used for RF classification: 178 
+[02:25:49.146] best_estimators 10000 Classification accuracy 0.745520 : 
+[02:25:49.146] Time used for RF classification: 177 
+[02:28:48.155] best_estimators 10000 Classification accuracy 0.745520 : 
+[02:28:48.155] Time used for RF classification: 178 
+[02:31:44.295] best_estimators 10000 Classification accuracy 0.745520 : 
+[02:31:44.295] Time used for RF classification: 176 
+[02:31:44.295] n_estimators 10000 mean test accuracy 0.743369 : 
+[02:37:30.333] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=2, waytogetphi='generate', workers=1)
+[02:38:39.510] Start testing
+[03:08:17.724] best_estimators 100000 Classification accuracy 0.745520 : 
+[03:08:17.757] Time used for RF classification: 1778 
+[03:37:38.656] best_estimators 100000 Classification accuracy 0.745520 : 
+[03:37:38.657] Time used for RF classification: 1760 
+[03:56:37.963] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[04:03:57.736] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[04:05:13.943] Start testing
+[04:07:03.852] best_estimators 100000 Classification accuracy 0.745520 : 
+[04:07:03.852] Time used for RF classification: 1765 
+[04:11:15.186] best_estimators 20000 Classification accuracy 0.767025 : 
+[04:11:15.187] Time used for RF classification: 361 
+[04:17:09.836] best_estimators 20000 Classification accuracy 0.770609 : 
+[04:17:09.837] Time used for RF classification: 354 
+[04:23:03.599] best_estimators 20000 Classification accuracy 0.767025 : 
+[04:23:03.599] Time used for RF classification: 353 
+[04:29:00.428] best_estimators 20000 Classification accuracy 0.770609 : 
+[04:29:00.429] Time used for RF classification: 356 
+[04:34:59.751] best_estimators 20000 Classification accuracy 0.767025 : 
+[04:34:59.752] Time used for RF classification: 359 
+[04:34:59.752] n_estimators 20000 mean test accuracy 0.768459 : 
+[04:36:47.393] best_estimators 100000 Classification accuracy 0.745520 : 
+[04:36:47.394] Time used for RF classification: 1783 
+[05:05:46.527] best_estimators 100000 Classification accuracy 0.745520 : 
+[05:05:46.560] Time used for RF classification: 1739 
+[05:05:46.561] n_estimators 100000 mean test accuracy 0.745520 : 
+[11:24:06.887] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='kron', split='train', test_times=5, tips='kron+feature_normalized', variation=2, waytogetphi='generate', workers=1)
+[11:25:53.273] Start testing
+[11:32:30.674] best_estimators 20000 Classification accuracy 0.752688 : 
+[11:32:30.674] Time used for RF classification: 397 
+[11:39:10.388] best_estimators 20000 Classification accuracy 0.745520 : 
+[11:39:10.388] Time used for RF classification: 399 
+[11:44:37.251] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='kron', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[11:45:48.127] best_estimators 20000 Classification accuracy 0.749104 : 
+[11:45:48.127] Time used for RF classification: 397 
+[11:46:34.227] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='kron', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[11:46:51.102] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='kron', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[11:52:28.628] best_estimators 20000 Classification accuracy 0.745520 : 
+[11:52:28.628] Time used for RF classification: 400 
+[11:59:08.604] best_estimators 20000 Classification accuracy 0.752688 : 
+[11:59:08.605] Time used for RF classification: 399 
+[11:59:08.605] n_estimators 20000 mean test accuracy 0.749104 : 
+[14:39:33.130] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='kron', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[14:49:20.352] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='simple+feature_unnormalized', variation=2, waytogetphi='generate', workers=1)
+[14:49:42.417] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='simple+feature_unnormalized', variation=2, waytogetphi='generate', workers=1)
+[14:50:41.457] Start testing
+[14:56:26.311] best_estimators 20000 Classification accuracy 0.731183 : 
+[14:56:26.311] Time used for RF classification: 344 
+[15:02:12.261] best_estimators 20000 Classification accuracy 0.727599 : 
+[15:02:12.298] Time used for RF classification: 345 
+[15:07:49.480] best_estimators 20000 Classification accuracy 0.727599 : 
+[15:07:49.480] Time used for RF classification: 337 
+[15:13:19.960] best_estimators 20000 Classification accuracy 0.734767 : 
+[15:13:19.960] Time used for RF classification: 330 
+[15:19:07.030] best_estimators 20000 Classification accuracy 0.727599 : 
+[15:19:07.030] Time used for RF classification: 347 
+[15:19:07.030] n_estimators 20000 mean test accuracy 0.729749 : 
+[15:34:00.250] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='simple+feature_01normalized', variation=2, waytogetphi='generate', workers=1)
+[15:38:32.039] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='simple+feature_01normalized', variation=2, waytogetphi='generate', workers=1)
+[15:39:23.234] Start testing
+[15:43:42.986] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='01', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='simple+feature_01normalized', variation=2, waytogetphi='generate', workers=1)
+[15:44:34.020] Start testing
+[15:50:02.562] best_estimators 20000 Classification accuracy 0.752688 : 
+[15:50:02.562] Time used for RF classification: 328 
+[15:55:28.856] best_estimators 20000 Classification accuracy 0.752688 : 
+[15:55:28.877] Time used for RF classification: 326 
+[16:01:04.473] best_estimators 20000 Classification accuracy 0.756272 : 
+[16:01:05.057] Time used for RF classification: 336 
+[16:06:27.535] best_estimators 20000 Classification accuracy 0.752688 : 
+[16:06:27.535] Time used for RF classification: 322 
+[16:11:50.161] best_estimators 20000 Classification accuracy 0.752688 : 
+[16:11:50.162] Time used for RF classification: 322 
+[16:11:50.162] n_estimators 20000 mean test accuracy 0.753405 : 
+[23:48:06.447] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='none', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[23:49:47.236] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[23:50:11.269] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[23:51:42.211] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[23:55:08.738] Start testing
+[00:03:26.620] best_estimators 20000 Classification accuracy 0.767025 : 
+[00:03:26.637] Time used for RF classification: 497 
+[00:05:36.900] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:09:31.890] Start testing
+[00:12:21.732] best_estimators 20000 Classification accuracy 0.770609 : 
+[00:12:21.733] Time used for RF classification: 535 
+[00:17:20.943] best_estimators 20000 Classification accuracy 0.767025 : 
+[00:17:20.943] Time used for RF classification: 469 
+[00:20:28.371] best_estimators 20000 Classification accuracy 0.763441 : 
+[00:20:28.371] Time used for RF classification: 486 
+[00:25:18.477] best_estimators 20000 Classification accuracy 0.767025 : 
+[00:25:18.477] Time used for RF classification: 477 
+[00:28:39.471] best_estimators 20000 Classification accuracy 0.770609 : 
+[00:28:39.472] Time used for RF classification: 491 
+[00:33:08.537] best_estimators 20000 Classification accuracy 0.759857 : 
+[00:33:08.538] Time used for RF classification: 470 
+[00:36:47.311] best_estimators 20000 Classification accuracy 0.767025 : 
+[00:36:47.312] Time used for RF classification: 487 
+[00:36:47.312] n_estimators 20000 mean test accuracy 0.767742 : 
+[00:40:56.129] best_estimators 20000 Classification accuracy 0.770609 : 
+[00:40:56.129] Time used for RF classification: 467 
+[00:48:45.729] best_estimators 20000 Classification accuracy 0.767025 : 
+[00:48:45.730] Time used for RF classification: 469 
+[00:48:45.730] n_estimators 20000 mean test accuracy 0.766308 : 
+[16:25:10.384] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[16:28:47.218] Start testing
+[16:37:57.097] best_estimators 20000 Classification accuracy 0.756272 : 
+[16:37:57.098] Time used for RF classification: 549 
+[16:45:59.484] best_estimators 20000 Classification accuracy 0.763441 : 
+[16:45:59.485] Time used for RF classification: 482 
+[16:53:52.384] best_estimators 20000 Classification accuracy 0.763441 : 
+[16:53:52.384] Time used for RF classification: 472 
+[17:01:53.670] best_estimators 20000 Classification accuracy 0.759857 : 
+[17:01:53.694] Time used for RF classification: 481 
+[17:09:48.751] best_estimators 20000 Classification accuracy 0.756272 : 
+[17:09:48.752] Time used for RF classification: 474 
+[17:09:48.752] n_estimators 20000 mean test accuracy 0.759857 : 
+[17:52:16.903] best_estimators 60000 Classification accuracy 0.756272 : 
+[17:52:17.006] Time used for RF classification: 2548 
+[18:59:52.625] best_estimators 60000 Classification accuracy 0.756272 : 
+[18:59:52.824] Time used for RF classification: 4054 
+[20:01:48.616] best_estimators 60000 Classification accuracy 0.756272 : 
+[20:01:48.892] Time used for RF classification: 3715 
+[21:07:19.233] best_estimators 60000 Classification accuracy 0.759857 : 
+[21:07:21.126] Time used for RF classification: 3931 
+[22:11:29.215] best_estimators 60000 Classification accuracy 0.759857 : 
+[22:11:29.235] Time used for RF classification: 3847 
+[22:11:29.236] n_estimators 60000 mean test accuracy 0.757706 : 
+[00:28:29.997] best_estimators 150000 Classification accuracy 0.759857 : 
+[00:28:30.025] Time used for RF classification: 8220 
+[01:47:52.286] best_estimators 150000 Classification accuracy 0.759857 : 
+[01:47:52.317] Time used for RF classification: 4761 
+[02:49:17.083] best_estimators 150000 Classification accuracy 0.759857 : 
+[02:49:17.084] Time used for RF classification: 3684 
+[03:48:55.646] best_estimators 150000 Classification accuracy 0.759857 : 
+[03:48:55.647] Time used for RF classification: 3578 
+[05:03:38.091] best_estimators 150000 Classification accuracy 0.759857 : 
+[05:03:38.126] Time used for RF classification: 4482 
+[05:03:38.126] n_estimators 150000 mean test accuracy 0.759857 : 
+[12:28:09.158] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[19:47:11.903] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[19:57:59.561] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[20:31:43.372] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[21:05:00.642] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[21:05:47.683] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[21:07:03.280] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[21:26:36.042] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[21:31:41.633] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[21:32:11.105] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[04:20:28.072] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[16:27:37.402] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[16:35:38.753] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[23:57:16.515] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:21:21.901] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:21:45.907] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:22:24.360] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:24:38.662] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:30:32.691] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:32:38.655] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:33:37.389] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:34:14.498] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:34:46.840] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:35:22.670] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:35:55.894] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:36:34.999] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[00:49:29.910] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[01:01:16.566] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[11:50:43.099] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[11:52:15.478] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[11:57:12.384] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:07:41.158] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:14:21.098] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:17:03.584] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:18:37.482] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:22:29.112] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:23:03.888] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[12:25:14.823] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[14:18:46.993] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)
+[14:21:06.871] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='PROTEINS', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log/proteins', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=2, waytogetphi='generate', workers=1)

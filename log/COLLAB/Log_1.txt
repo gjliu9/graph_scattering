@@ -1,0 +1,414 @@
+[17:47:45.436] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, feature_choosen=1, log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, split='train', test_times=5, variation=1, waytogetphi='generate', workers=1)
+[21:12:39.924] Start testing
+[21:14:52.620] best_estimators 2000 Classification accuracy 0.768000 : 
+[21:14:52.621] Time used for RF classification: 132 
+[21:17:03.889] best_estimators 2000 Classification accuracy 0.762400 : 
+[21:17:03.889] Time used for RF classification: 131 
+[21:19:17.513] best_estimators 2000 Classification accuracy 0.764800 : 
+[21:19:17.513] Time used for RF classification: 133 
+[21:21:28.240] best_estimators 2000 Classification accuracy 0.768000 : 
+[21:21:28.240] Time used for RF classification: 130 
+[21:24:31.408] best_estimators 2000 Classification accuracy 0.764800 : 
+[21:24:31.408] Time used for RF classification: 183 
+[17:06:35.182] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='ones', feature_choosen=1, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[17:08:49.507] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='ones', feature_choosen=1, gstcoe_norml='none', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[17:16:37.845] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='ones', feature_choosen=1, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[01:18:59.074] Start testing
+[01:21:58.436] n_estimators 2000 train accuracy 0.972000 : 
+[01:21:58.437] best_estimators 2000 Classification accuracy 0.762400 : 
+[01:21:58.437] Time used for RF classification: 179 
+[01:25:16.822] n_estimators 2000 train accuracy 0.972000 : 
+[01:25:16.822] best_estimators 2000 Classification accuracy 0.765600 : 
+[01:25:16.822] Time used for RF classification: 198 
+[01:28:18.639] n_estimators 2000 train accuracy 0.972000 : 
+[01:28:18.649] best_estimators 2000 Classification accuracy 0.765600 : 
+[01:28:18.649] Time used for RF classification: 181 
+[01:31:17.730] n_estimators 2000 train accuracy 0.972000 : 
+[01:31:17.730] best_estimators 2000 Classification accuracy 0.761600 : 
+[01:31:17.730] Time used for RF classification: 179 
+[01:34:07.917] n_estimators 2000 train accuracy 0.972000 : 
+[01:34:07.918] best_estimators 2000 Classification accuracy 0.765600 : 
+[01:34:07.918] Time used for RF classification: 170 
+[01:34:07.918] n_estimators 2000 mean test accuracy 0.764160 : 
+[01:43:09.104] n_estimators 6000 train accuracy 0.972000 : 
+[01:43:09.105] best_estimators 6000 Classification accuracy 0.765600 : 
+[01:43:09.105] Time used for RF classification: 541 
+[01:51:19.589] n_estimators 6000 train accuracy 0.972000 : 
+[01:51:19.589] best_estimators 6000 Classification accuracy 0.765600 : 
+[01:51:19.589] Time used for RF classification: 490 
+[01:59:19.641] n_estimators 6000 train accuracy 0.972000 : 
+[01:59:19.642] best_estimators 6000 Classification accuracy 0.763200 : 
+[01:59:19.642] Time used for RF classification: 480 
+[02:06:17.364] n_estimators 6000 train accuracy 0.972000 : 
+[02:06:17.381] best_estimators 6000 Classification accuracy 0.765600 : 
+[02:06:17.381] Time used for RF classification: 417 
+[02:13:20.070] n_estimators 6000 train accuracy 0.972000 : 
+[02:13:20.075] best_estimators 6000 Classification accuracy 0.764000 : 
+[02:13:20.076] Time used for RF classification: 422 
+[02:13:20.077] n_estimators 6000 mean test accuracy 0.764800 : 
+[02:48:29.250] n_estimators 30000 train accuracy 0.972000 : 
+[02:48:29.251] best_estimators 30000 Classification accuracy 0.765600 : 
+[02:48:29.251] Time used for RF classification: 2109 
+[03:23:14.759] n_estimators 30000 train accuracy 0.972000 : 
+[03:23:14.759] best_estimators 30000 Classification accuracy 0.765600 : 
+[03:23:14.759] Time used for RF classification: 2085 
+[04:02:02.302] n_estimators 30000 train accuracy 0.972000 : 
+[04:02:02.325] best_estimators 30000 Classification accuracy 0.765600 : 
+[04:02:02.325] Time used for RF classification: 2327 
+[04:48:06.834] n_estimators 30000 train accuracy 0.972000 : 
+[04:48:06.834] best_estimators 30000 Classification accuracy 0.765600 : 
+[04:48:06.834] Time used for RF classification: 2764 
+[05:23:41.979] n_estimators 30000 train accuracy 0.972000 : 
+[05:23:41.980] best_estimators 30000 Classification accuracy 0.765600 : 
+[05:23:41.980] Time used for RF classification: 2135 
+[05:23:41.980] n_estimators 30000 mean test accuracy 0.765600 : 
+[05:23:45.445] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='ones', feature_choosen=1, gstcoe_norml='none', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[08:53:37.181] Start testing
+[08:56:26.705] n_estimators 2000 train accuracy 0.972000 : 
+[08:56:26.706] best_estimators 2000 Classification accuracy 0.764800 : 
+[08:56:26.706] Time used for RF classification: 169 
+[08:58:47.778] n_estimators 2000 train accuracy 0.972000 : 
+[08:58:47.778] best_estimators 2000 Classification accuracy 0.766400 : 
+[08:58:47.778] Time used for RF classification: 141 
+[09:01:07.852] n_estimators 2000 train accuracy 0.972000 : 
+[09:01:07.869] best_estimators 2000 Classification accuracy 0.763200 : 
+[09:01:07.869] Time used for RF classification: 140 
+[09:03:28.022] n_estimators 2000 train accuracy 0.972000 : 
+[09:03:28.026] best_estimators 2000 Classification accuracy 0.768000 : 
+[09:03:28.026] Time used for RF classification: 140 
+[09:05:49.441] n_estimators 2000 train accuracy 0.972000 : 
+[09:05:49.441] best_estimators 2000 Classification accuracy 0.768000 : 
+[09:05:49.441] Time used for RF classification: 141 
+[09:05:49.441] n_estimators 2000 mean test accuracy 0.766080 : 
+[09:12:56.352] n_estimators 6000 train accuracy 0.972000 : 
+[09:12:56.352] best_estimators 6000 Classification accuracy 0.764000 : 
+[09:12:56.352] Time used for RF classification: 426 
+[09:19:58.081] n_estimators 6000 train accuracy 0.972000 : 
+[09:19:58.081] best_estimators 6000 Classification accuracy 0.764800 : 
+[09:19:58.081] Time used for RF classification: 421 
+[09:26:58.751] n_estimators 6000 train accuracy 0.972000 : 
+[09:26:58.751] best_estimators 6000 Classification accuracy 0.766400 : 
+[09:26:58.752] Time used for RF classification: 420 
+[09:33:59.425] n_estimators 6000 train accuracy 0.972000 : 
+[09:33:59.425] best_estimators 6000 Classification accuracy 0.765600 : 
+[09:33:59.425] Time used for RF classification: 420 
+[09:41:08.430] n_estimators 6000 train accuracy 0.972000 : 
+[09:41:08.431] best_estimators 6000 Classification accuracy 0.766400 : 
+[09:41:08.431] Time used for RF classification: 428 
+[09:41:08.431] n_estimators 6000 mean test accuracy 0.765440 : 
+[10:16:33.009] n_estimators 30000 train accuracy 0.972000 : 
+[10:16:33.009] best_estimators 30000 Classification accuracy 0.765600 : 
+[10:16:33.009] Time used for RF classification: 2124 
+[10:52:02.230] n_estimators 30000 train accuracy 0.972000 : 
+[10:52:02.230] best_estimators 30000 Classification accuracy 0.765600 : 
+[10:52:02.230] Time used for RF classification: 2129 
+[11:26:53.704] n_estimators 30000 train accuracy 0.972000 : 
+[11:26:53.705] best_estimators 30000 Classification accuracy 0.764000 : 
+[11:26:53.705] Time used for RF classification: 2091 
+[12:01:51.406] n_estimators 30000 train accuracy 0.972000 : 
+[12:01:54.633] best_estimators 30000 Classification accuracy 0.765600 : 
+[12:01:54.633] Time used for RF classification: 2100 
+[12:38:49.949] n_estimators 30000 train accuracy 0.972000 : 
+[12:38:49.949] best_estimators 30000 Classification accuracy 0.765600 : 
+[12:38:49.949] Time used for RF classification: 2215 
+[12:38:49.949] n_estimators 30000 mean test accuracy 0.765280 : 
+[12:38:53.670] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='degrees', feature_choosen=1, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[17:37:05.683] Start testing
+[17:39:27.722] n_estimators 2000 train accuracy 0.972000 : 
+[17:39:27.722] best_estimators 2000 Classification accuracy 0.772800 : 
+[17:39:27.723] Time used for RF classification: 142 
+[17:41:46.014] n_estimators 2000 train accuracy 0.972000 : 
+[17:41:46.015] best_estimators 2000 Classification accuracy 0.769600 : 
+[17:41:46.015] Time used for RF classification: 138 
+[17:44:02.269] n_estimators 2000 train accuracy 0.972000 : 
+[17:44:02.269] best_estimators 2000 Classification accuracy 0.767200 : 
+[17:44:02.269] Time used for RF classification: 136 
+[17:46:22.205] n_estimators 2000 train accuracy 0.972000 : 
+[17:46:22.205] best_estimators 2000 Classification accuracy 0.768000 : 
+[17:46:22.205] Time used for RF classification: 139 
+[17:48:40.974] n_estimators 2000 train accuracy 0.972000 : 
+[17:48:40.974] best_estimators 2000 Classification accuracy 0.771200 : 
+[17:48:40.975] Time used for RF classification: 138 
+[17:48:40.975] n_estimators 2000 mean test accuracy 0.769760 : 
+[17:56:12.145] n_estimators 6000 train accuracy 0.972000 : 
+[17:56:12.146] best_estimators 6000 Classification accuracy 0.770400 : 
+[17:56:12.146] Time used for RF classification: 451 
+[18:03:41.718] n_estimators 6000 train accuracy 0.972000 : 
+[18:03:41.730] best_estimators 6000 Classification accuracy 0.771200 : 
+[18:03:41.730] Time used for RF classification: 449 
+[18:10:52.763] n_estimators 6000 train accuracy 0.972000 : 
+[18:10:52.763] best_estimators 6000 Classification accuracy 0.769600 : 
+[18:10:52.763] Time used for RF classification: 430 
+[18:18:36.219] n_estimators 6000 train accuracy 0.972000 : 
+[18:18:36.220] best_estimators 6000 Classification accuracy 0.768800 : 
+[18:18:36.220] Time used for RF classification: 463 
+[18:26:09.926] n_estimators 6000 train accuracy 0.972000 : 
+[18:26:09.927] best_estimators 6000 Classification accuracy 0.769600 : 
+[18:26:09.927] Time used for RF classification: 453 
+[18:26:09.928] n_estimators 6000 mean test accuracy 0.769920 : 
+[19:06:34.101] n_estimators 30000 train accuracy 0.972000 : 
+[19:06:34.121] best_estimators 30000 Classification accuracy 0.768000 : 
+[19:06:34.122] Time used for RF classification: 2424 
+[21:25:33.257] n_estimators 30000 train accuracy 0.972000 : 
+[21:25:33.258] best_estimators 30000 Classification accuracy 0.767200 : 
+[21:25:33.259] Time used for RF classification: 8338 
+[22:40:31.487] n_estimators 30000 train accuracy 0.972000 : 
+[22:40:31.630] best_estimators 30000 Classification accuracy 0.768000 : 
+[22:40:31.630] Time used for RF classification: 4498 
+[23:42:06.489] n_estimators 30000 train accuracy 0.972000 : 
+[23:42:06.495] best_estimators 30000 Classification accuracy 0.767200 : 
+[23:42:06.496] Time used for RF classification: 3694 
+[00:52:09.657] n_estimators 30000 train accuracy 0.972000 : 
+[00:52:09.658] best_estimators 30000 Classification accuracy 0.768800 : 
+[00:52:09.658] Time used for RF classification: 4202 
+[00:52:09.658] n_estimators 30000 mean test accuracy 0.767840 : 
+[00:52:16.686] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='degrees', feature_choosen=1, gstcoe_norml='none', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[07:20:05.961] Start testing
+[07:23:26.577] n_estimators 2000 train accuracy 0.982400 : 
+[07:23:26.577] best_estimators 2000 Classification accuracy 0.786400 : 
+[07:23:26.577] Time used for RF classification: 200 
+[07:26:46.866] n_estimators 2000 train accuracy 0.982400 : 
+[07:26:46.866] best_estimators 2000 Classification accuracy 0.784000 : 
+[07:26:46.867] Time used for RF classification: 200 
+[07:30:13.727] n_estimators 2000 train accuracy 0.982400 : 
+[07:30:13.728] best_estimators 2000 Classification accuracy 0.783200 : 
+[07:30:13.728] Time used for RF classification: 206 
+[07:33:49.551] n_estimators 2000 train accuracy 0.982400 : 
+[07:33:49.551] best_estimators 2000 Classification accuracy 0.784000 : 
+[07:33:49.551] Time used for RF classification: 215 
+[07:37:01.503] n_estimators 2000 train accuracy 0.982400 : 
+[07:37:01.507] best_estimators 2000 Classification accuracy 0.784000 : 
+[07:37:01.507] Time used for RF classification: 191 
+[07:37:01.507] n_estimators 2000 mean test accuracy 0.784320 : 
+[07:46:16.954] n_estimators 6000 train accuracy 0.982400 : 
+[07:46:16.954] best_estimators 6000 Classification accuracy 0.786400 : 
+[07:46:16.954] Time used for RF classification: 555 
+[07:56:00.041] n_estimators 6000 train accuracy 0.982400 : 
+[07:56:00.041] best_estimators 6000 Classification accuracy 0.784000 : 
+[07:56:00.042] Time used for RF classification: 583 
+[08:07:27.495] n_estimators 6000 train accuracy 0.982400 : 
+[08:07:27.579] best_estimators 6000 Classification accuracy 0.785600 : 
+[08:07:27.579] Time used for RF classification: 687 
+[08:16:07.168] n_estimators 6000 train accuracy 0.982400 : 
+[08:16:07.168] best_estimators 6000 Classification accuracy 0.788800 : 
+[08:16:07.168] Time used for RF classification: 519 
+[08:24:31.772] n_estimators 6000 train accuracy 0.982400 : 
+[08:24:31.773] best_estimators 6000 Classification accuracy 0.785600 : 
+[08:24:31.773] Time used for RF classification: 504 
+[08:24:31.773] n_estimators 6000 mean test accuracy 0.786080 : 
+[09:26:23.808] n_estimators 30000 train accuracy 0.982400 : 
+[09:26:23.810] best_estimators 30000 Classification accuracy 0.785600 : 
+[09:26:23.810] Time used for RF classification: 3711 
+[10:51:07.320] n_estimators 30000 train accuracy 0.982400 : 
+[10:51:07.327] best_estimators 30000 Classification accuracy 0.787200 : 
+[10:51:07.329] Time used for RF classification: 5083 
+[12:06:16.055] n_estimators 30000 train accuracy 0.982400 : 
+[12:06:16.056] best_estimators 30000 Classification accuracy 0.785600 : 
+[12:06:16.056] Time used for RF classification: 4508 
+[13:29:53.405] n_estimators 30000 train accuracy 0.982400 : 
+[13:29:53.433] best_estimators 30000 Classification accuracy 0.785600 : 
+[13:29:53.433] Time used for RF classification: 5017 
+[14:56:11.210] n_estimators 30000 train accuracy 0.982400 : 
+[14:56:11.248] best_estimators 30000 Classification accuracy 0.785600 : 
+[14:56:11.248] Time used for RF classification: 5176 
+[14:56:11.249] n_estimators 30000 mean test accuracy 0.785920 : 
+[14:56:52.501] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='ones', feature_choosen=1, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[19:58:01.913] Start testing
+[20:00:34.858] n_estimators 2000 train accuracy 0.972000 : 
+[20:00:34.940] best_estimators 2000 Classification accuracy 0.764800 : 
+[20:00:34.940] Time used for RF classification: 153 
+[20:03:09.647] n_estimators 2000 train accuracy 0.972000 : 
+[20:03:09.648] best_estimators 2000 Classification accuracy 0.764000 : 
+[20:03:09.648] Time used for RF classification: 154 
+[20:05:36.649] n_estimators 2000 train accuracy 0.972000 : 
+[20:05:36.650] best_estimators 2000 Classification accuracy 0.762400 : 
+[20:05:36.650] Time used for RF classification: 146 
+[20:08:12.355] n_estimators 2000 train accuracy 0.972000 : 
+[20:08:12.356] best_estimators 2000 Classification accuracy 0.766400 : 
+[20:08:12.356] Time used for RF classification: 155 
+[20:10:44.688] n_estimators 2000 train accuracy 0.972000 : 
+[20:10:44.689] best_estimators 2000 Classification accuracy 0.764000 : 
+[20:10:44.689] Time used for RF classification: 152 
+[20:10:44.689] n_estimators 2000 mean test accuracy 0.764320 : 
+[20:18:23.850] n_estimators 6000 train accuracy 0.972000 : 
+[20:18:23.850] best_estimators 6000 Classification accuracy 0.765600 : 
+[20:18:23.850] Time used for RF classification: 459 
+[20:25:48.475] n_estimators 6000 train accuracy 0.972000 : 
+[20:25:48.475] best_estimators 6000 Classification accuracy 0.766400 : 
+[20:25:48.475] Time used for RF classification: 444 
+[20:33:18.678] n_estimators 6000 train accuracy 0.972000 : 
+[20:33:18.678] best_estimators 6000 Classification accuracy 0.765600 : 
+[20:33:18.678] Time used for RF classification: 450 
+[20:42:40.187] n_estimators 6000 train accuracy 0.972000 : 
+[20:42:40.187] best_estimators 6000 Classification accuracy 0.764800 : 
+[20:42:40.188] Time used for RF classification: 561 
+[20:50:36.355] n_estimators 6000 train accuracy 0.972000 : 
+[20:50:36.355] best_estimators 6000 Classification accuracy 0.764800 : 
+[20:50:36.355] Time used for RF classification: 476 
+[20:50:36.355] n_estimators 6000 mean test accuracy 0.765440 : 
+[21:28:19.622] n_estimators 30000 train accuracy 0.972000 : 
+[21:28:19.623] best_estimators 30000 Classification accuracy 0.764800 : 
+[21:28:19.623] Time used for RF classification: 2263 
+[22:04:58.915] n_estimators 30000 train accuracy 0.972000 : 
+[22:04:58.915] best_estimators 30000 Classification accuracy 0.765600 : 
+[22:04:58.916] Time used for RF classification: 2199 
+[22:39:31.953] n_estimators 30000 train accuracy 0.972000 : 
+[22:39:31.954] best_estimators 30000 Classification accuracy 0.765600 : 
+[22:39:31.954] Time used for RF classification: 2072 
+[23:14:09.125] n_estimators 30000 train accuracy 0.972000 : 
+[23:14:09.147] best_estimators 30000 Classification accuracy 0.765600 : 
+[23:14:09.147] Time used for RF classification: 2077 
+[23:49:43.362] n_estimators 30000 train accuracy 0.972000 : 
+[23:49:43.369] best_estimators 30000 Classification accuracy 0.765600 : 
+[23:49:43.370] Time used for RF classification: 2134 
+[23:49:43.370] n_estimators 30000 mean test accuracy 0.765440 : 
+[23:49:46.719] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='ones', feature_choosen=1, gstcoe_norml='none', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[04:08:58.804] Start testing
+[04:11:53.464] n_estimators 2000 train accuracy 0.972000 : 
+[04:11:53.464] best_estimators 2000 Classification accuracy 0.764000 : 
+[04:11:53.464] Time used for RF classification: 174 
+[04:14:57.402] n_estimators 2000 train accuracy 0.972000 : 
+[04:14:57.402] best_estimators 2000 Classification accuracy 0.765600 : 
+[04:14:57.402] Time used for RF classification: 183 
+[04:17:37.272] n_estimators 2000 train accuracy 0.972000 : 
+[04:17:37.272] best_estimators 2000 Classification accuracy 0.767200 : 
+[04:17:37.273] Time used for RF classification: 159 
+[04:20:17.844] n_estimators 2000 train accuracy 0.972000 : 
+[04:20:17.844] best_estimators 2000 Classification accuracy 0.768000 : 
+[04:20:17.845] Time used for RF classification: 160 
+[04:23:00.599] n_estimators 2000 train accuracy 0.972000 : 
+[04:23:00.600] best_estimators 2000 Classification accuracy 0.768800 : 
+[04:23:00.600] Time used for RF classification: 162 
+[04:23:00.600] n_estimators 2000 mean test accuracy 0.766720 : 
+[04:30:41.778] n_estimators 6000 train accuracy 0.972000 : 
+[04:30:41.787] best_estimators 6000 Classification accuracy 0.764800 : 
+[04:30:41.787] Time used for RF classification: 461 
+[04:37:53.202] n_estimators 6000 train accuracy 0.972000 : 
+[04:37:53.202] best_estimators 6000 Classification accuracy 0.764800 : 
+[04:37:53.203] Time used for RF classification: 431 
+[04:44:47.095] n_estimators 6000 train accuracy 0.972000 : 
+[04:44:47.095] best_estimators 6000 Classification accuracy 0.766400 : 
+[04:44:47.095] Time used for RF classification: 413 
+[04:56:21.679] n_estimators 6000 train accuracy 0.972000 : 
+[04:56:21.679] best_estimators 6000 Classification accuracy 0.765600 : 
+[04:56:21.679] Time used for RF classification: 694 
+[05:13:50.019] n_estimators 6000 train accuracy 0.972000 : 
+[05:13:50.034] best_estimators 6000 Classification accuracy 0.764800 : 
+[05:13:50.034] Time used for RF classification: 1048 
+[05:13:50.034] n_estimators 6000 mean test accuracy 0.765280 : 
+[06:08:46.081] n_estimators 30000 train accuracy 0.972000 : 
+[06:08:46.730] best_estimators 30000 Classification accuracy 0.765600 : 
+[06:08:46.730] Time used for RF classification: 3296 
+[06:47:55.144] n_estimators 30000 train accuracy 0.972000 : 
+[06:47:55.145] best_estimators 30000 Classification accuracy 0.764800 : 
+[06:47:55.145] Time used for RF classification: 2348 
+[07:27:02.815] n_estimators 30000 train accuracy 0.972000 : 
+[07:27:02.995] best_estimators 30000 Classification accuracy 0.765600 : 
+[07:27:02.995] Time used for RF classification: 2347 
+[08:06:01.041] n_estimators 30000 train accuracy 0.972000 : 
+[08:06:01.055] best_estimators 30000 Classification accuracy 0.765600 : 
+[08:06:01.055] Time used for RF classification: 2337 
+[08:44:33.238] n_estimators 30000 train accuracy 0.972000 : 
+[08:44:33.238] best_estimators 30000 Classification accuracy 0.765600 : 
+[08:44:33.238] Time used for RF classification: 2312 
+[08:44:33.238] n_estimators 30000 mean test accuracy 0.765440 : 
+[08:44:39.005] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='degrees', feature_choosen=1, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[12:39:52.389] Start testing
+[12:42:12.427] n_estimators 2000 train accuracy 0.972000 : 
+[12:42:12.428] best_estimators 2000 Classification accuracy 0.770400 : 
+[12:42:12.428] Time used for RF classification: 139 
+[12:44:32.706] n_estimators 2000 train accuracy 0.972000 : 
+[12:44:32.706] best_estimators 2000 Classification accuracy 0.771200 : 
+[12:44:32.707] Time used for RF classification: 140 
+[12:47:00.032] n_estimators 2000 train accuracy 0.972000 : 
+[12:47:00.033] best_estimators 2000 Classification accuracy 0.768800 : 
+[12:47:00.033] Time used for RF classification: 147 
+[12:49:19.779] n_estimators 2000 train accuracy 0.972000 : 
+[12:49:19.779] best_estimators 2000 Classification accuracy 0.769600 : 
+[12:49:19.779] Time used for RF classification: 139 
+[12:52:30.142] n_estimators 2000 train accuracy 0.972000 : 
+[12:52:30.143] best_estimators 2000 Classification accuracy 0.768800 : 
+[12:52:30.143] Time used for RF classification: 190 
+[12:52:30.143] n_estimators 2000 mean test accuracy 0.769760 : 
+[13:00:29.248] n_estimators 6000 train accuracy 0.972000 : 
+[13:00:32.744] best_estimators 6000 Classification accuracy 0.767200 : 
+[13:00:32.744] Time used for RF classification: 482 
+[13:07:39.627] n_estimators 6000 train accuracy 0.972000 : 
+[13:07:39.627] best_estimators 6000 Classification accuracy 0.768000 : 
+[13:07:39.627] Time used for RF classification: 426 
+[13:14:38.736] n_estimators 6000 train accuracy 0.972000 : 
+[13:14:38.736] best_estimators 6000 Classification accuracy 0.768800 : 
+[13:14:38.737] Time used for RF classification: 419 
+[13:21:43.521] n_estimators 6000 train accuracy 0.972000 : 
+[13:21:43.521] best_estimators 6000 Classification accuracy 0.768000 : 
+[13:21:43.521] Time used for RF classification: 424 
+[13:28:21.509] n_estimators 6000 train accuracy 0.972000 : 
+[13:28:21.510] best_estimators 6000 Classification accuracy 0.766400 : 
+[13:28:21.510] Time used for RF classification: 397 
+[13:28:21.510] n_estimators 6000 mean test accuracy 0.767680 : 
+[14:01:19.205] n_estimators 30000 train accuracy 0.972000 : 
+[14:01:19.233] best_estimators 30000 Classification accuracy 0.767200 : 
+[14:01:19.234] Time used for RF classification: 1977 
+[14:34:07.348] n_estimators 30000 train accuracy 0.972000 : 
+[14:34:07.348] best_estimators 30000 Classification accuracy 0.768800 : 
+[14:34:07.348] Time used for RF classification: 1967 
+[15:06:55.513] n_estimators 30000 train accuracy 0.972000 : 
+[15:06:55.576] best_estimators 30000 Classification accuracy 0.767200 : 
+[15:06:55.576] Time used for RF classification: 1968 
+[15:39:43.516] n_estimators 30000 train accuracy 0.972000 : 
+[15:39:43.516] best_estimators 30000 Classification accuracy 0.767200 : 
+[15:39:43.517] Time used for RF classification: 1967 
+[16:12:54.102] n_estimators 30000 train accuracy 0.972000 : 
+[16:12:54.530] best_estimators 30000 Classification accuracy 0.767200 : 
+[16:12:54.530] Time used for RF classification: 1990 
+[16:12:54.531] n_estimators 30000 mean test accuracy 0.767520 : 
+[16:14:19.172] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='COLLAB', epochs=10000, fake_signal='degrees', feature_choosen=1, gstcoe_norml='none', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=5, reduction_mode='simple', sample='umax', split='train', test_times=5, tips='original', variation=1, waytogetphi='generate', workers=1)
+[20:00:33.571] Start testing
+[20:03:18.344] n_estimators 2000 train accuracy 0.982400 : 
+[20:03:18.344] best_estimators 2000 Classification accuracy 0.782400 : 
+[20:03:18.344] Time used for RF classification: 164 
+[20:06:07.630] n_estimators 2000 train accuracy 0.982400 : 
+[20:06:07.631] best_estimators 2000 Classification accuracy 0.788000 : 
+[20:06:07.631] Time used for RF classification: 169 
+[20:08:57.527] n_estimators 2000 train accuracy 0.982400 : 
+[20:08:57.527] best_estimators 2000 Classification accuracy 0.783200 : 
+[20:08:57.527] Time used for RF classification: 169 
+[20:11:42.259] n_estimators 2000 train accuracy 0.982400 : 
+[20:11:42.260] best_estimators 2000 Classification accuracy 0.784800 : 
+[20:11:42.260] Time used for RF classification: 164 
+[20:14:32.112] n_estimators 2000 train accuracy 0.982400 : 
+[20:14:32.112] best_estimators 2000 Classification accuracy 0.788000 : 
+[20:14:32.112] Time used for RF classification: 169 
+[20:14:32.113] n_estimators 2000 mean test accuracy 0.785280 : 
+[20:22:53.539] n_estimators 6000 train accuracy 0.982400 : 
+[20:22:53.539] best_estimators 6000 Classification accuracy 0.784800 : 
+[20:22:53.539] Time used for RF classification: 501 
+[20:31:10.715] n_estimators 6000 train accuracy 0.982400 : 
+[20:31:10.716] best_estimators 6000 Classification accuracy 0.784800 : 
+[20:31:10.716] Time used for RF classification: 497 
+[20:39:33.305] n_estimators 6000 train accuracy 0.982400 : 
+[20:39:33.306] best_estimators 6000 Classification accuracy 0.785600 : 
+[20:39:33.306] Time used for RF classification: 502 
+[20:48:02.472] n_estimators 6000 train accuracy 0.982400 : 
+[20:48:02.472] best_estimators 6000 Classification accuracy 0.786400 : 
+[20:48:02.472] Time used for RF classification: 509 
+[20:56:19.681] n_estimators 6000 train accuracy 0.982400 : 
+[20:56:19.682] best_estimators 6000 Classification accuracy 0.784800 : 
+[20:56:19.683] Time used for RF classification: 497 
+[20:56:19.683] n_estimators 6000 mean test accuracy 0.785280 : 
+[21:35:25.639] n_estimators 30000 train accuracy 0.982400 : 
+[21:35:25.640] best_estimators 30000 Classification accuracy 0.786400 : 
+[21:35:25.640] Time used for RF classification: 2345 
+[22:14:16.914] n_estimators 30000 train accuracy 0.982400 : 
+[22:14:16.914] best_estimators 30000 Classification accuracy 0.785600 : 
+[22:14:16.914] Time used for RF classification: 2331 
+[22:53:15.367] n_estimators 30000 train accuracy 0.982400 : 
+[22:53:15.368] best_estimators 30000 Classification accuracy 0.784800 : 
+[22:53:15.368] Time used for RF classification: 2338 
+[23:32:09.518] n_estimators 30000 train accuracy 0.982400 : 
+[23:32:09.518] best_estimators 30000 Classification accuracy 0.786400 : 
+[23:32:09.519] Time used for RF classification: 2334 
+[00:10:55.836] n_estimators 30000 train accuracy 0.982400 : 
+[00:10:55.837] best_estimators 30000 Classification accuracy 0.786400 : 
+[00:10:55.837] Time used for RF classification: 2326 
+[00:10:55.837] n_estimators 30000 mean test accuracy 0.785920 : 

@@ -1,0 +1,2062 @@
+[02:40:10.217] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[11:40:22.767] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[12:08:57.632] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[14:02:53.258] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[14:10:47.480] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[14:14:47.647] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[14:55:09.250] Time used for GST: 2421 
+[18:33:31.659] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[18:34:33.239] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[18:41:35.266] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[20:43:49.985] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[21:15:27.492] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[21:18:56.596] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[21:22:21.645] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[22:24:30.705] Time used for GST: 3728 
+[11:41:58.931] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[11:43:38.538] loss 1.947338 : 
+[11:43:38.539] epoch: 0 acc: 0.103000 acctrain: 0.142857 
+[11:43:39.805] loss 1.677189 : 
+[11:43:39.805] epoch: 1 acc: 0.613000 acctrain: 1.000000 
+[11:43:41.285] loss 0.960458 : 
+[11:43:41.285] epoch: 2 acc: 0.659000 acctrain: 1.000000 
+[11:43:44.407] loss 0.335867 : 
+[11:43:44.407] epoch: 3 acc: 0.734000 acctrain: 1.000000 
+[11:43:45.839] loss 0.074171 : 
+[11:43:45.839] epoch: 4 acc: 0.742000 acctrain: 1.000000 
+[11:43:47.197] loss 0.013321 : 
+[11:43:47.197] epoch: 5 acc: 0.730000 acctrain: 1.000000 
+[11:43:48.546] loss 0.002275 : 
+[11:43:48.546] epoch: 6 acc: 0.725000 acctrain: 1.000000 
+[11:43:50.185] loss 0.000403 : 
+[11:43:50.185] epoch: 7 acc: 0.716000 acctrain: 1.000000 
+[11:43:51.810] loss 0.000077 : 
+[11:43:51.810] epoch: 8 acc: 0.710000 acctrain: 1.000000 
+[11:43:53.713] loss 0.000016 : 
+[11:43:53.714] epoch: 9 acc: 0.701000 acctrain: 1.000000 
+[11:43:55.681] loss 0.000004 : 
+[11:43:55.681] epoch: 10 acc: 0.698000 acctrain: 1.000000 
+[11:43:57.490] loss 0.000001 : 
+[11:43:57.490] epoch: 11 acc: 0.693000 acctrain: 1.000000 
+[11:43:59.455] loss 0.000000 : 
+[11:43:59.455] epoch: 12 acc: 0.691000 acctrain: 1.000000 
+[11:44:01.583] loss 0.000000 : 
+[11:44:01.583] epoch: 13 acc: 0.690000 acctrain: 1.000000 
+[11:44:03.439] loss 0.000000 : 
+[11:44:03.439] epoch: 14 acc: 0.684000 acctrain: 1.000000 
+[11:44:05.283] loss 0.000000 : 
+[11:44:05.283] epoch: 15 acc: 0.682000 acctrain: 1.000000 
+[11:44:07.051] loss 0.000000 : 
+[11:44:07.051] epoch: 16 acc: 0.680000 acctrain: 1.000000 
+[11:44:08.375] loss 0.000000 : 
+[11:44:08.375] epoch: 17 acc: 0.680000 acctrain: 1.000000 
+[11:44:10.455] loss 0.000000 : 
+[11:44:10.455] epoch: 18 acc: 0.679000 acctrain: 1.000000 
+[11:44:12.415] loss 0.000000 : 
+[11:44:12.415] epoch: 19 acc: 0.677000 acctrain: 1.000000 
+[11:44:14.304] loss 0.000000 : 
+[11:44:14.304] epoch: 20 acc: 0.676000 acctrain: 1.000000 
+[11:44:16.269] loss 0.000000 : 
+[11:44:16.269] epoch: 21 acc: 0.676000 acctrain: 1.000000 
+[11:44:17.526] loss 0.000000 : 
+[11:44:17.527] epoch: 22 acc: 0.676000 acctrain: 1.000000 
+[11:44:19.711] loss 0.000000 : 
+[11:44:19.711] epoch: 23 acc: 0.676000 acctrain: 1.000000 
+[11:44:21.201] loss 0.000000 : 
+[11:44:21.201] epoch: 24 acc: 0.676000 acctrain: 1.000000 
+[11:44:22.879] loss 0.000000 : 
+[11:44:22.879] epoch: 25 acc: 0.676000 acctrain: 1.000000 
+[11:44:24.922] loss 0.000000 : 
+[11:44:24.923] epoch: 26 acc: 0.676000 acctrain: 1.000000 
+[11:44:26.528] loss 0.000000 : 
+[11:44:26.528] epoch: 27 acc: 0.675000 acctrain: 1.000000 
+[11:44:28.294] loss 0.000000 : 
+[11:44:28.295] epoch: 28 acc: 0.675000 acctrain: 1.000000 
+[11:44:29.952] loss 0.000000 : 
+[11:44:29.952] epoch: 29 acc: 0.675000 acctrain: 1.000000 
+[11:44:31.554] loss 0.000000 : 
+[11:44:31.554] epoch: 30 acc: 0.675000 acctrain: 1.000000 
+[11:44:33.394] loss 0.000000 : 
+[11:44:33.394] epoch: 31 acc: 0.675000 acctrain: 1.000000 
+[11:44:35.362] loss 0.000000 : 
+[11:44:35.362] epoch: 32 acc: 0.675000 acctrain: 1.000000 
+[11:44:37.095] loss 0.000000 : 
+[11:44:37.095] epoch: 33 acc: 0.675000 acctrain: 1.000000 
+[11:44:38.875] loss 0.000000 : 
+[11:44:38.876] epoch: 34 acc: 0.675000 acctrain: 1.000000 
+[11:44:39.999] loss 0.000000 : 
+[11:44:40.000] epoch: 35 acc: 0.675000 acctrain: 1.000000 
+[11:44:41.550] loss 0.000000 : 
+[11:44:41.550] epoch: 36 acc: 0.675000 acctrain: 1.000000 
+[11:44:43.238] loss 0.000000 : 
+[11:44:43.238] epoch: 37 acc: 0.675000 acctrain: 1.000000 
+[11:44:45.119] loss 0.000000 : 
+[11:44:45.119] epoch: 38 acc: 0.675000 acctrain: 1.000000 
+[11:44:47.046] loss 0.000000 : 
+[11:44:47.046] epoch: 39 acc: 0.675000 acctrain: 1.000000 
+[11:44:48.464] loss 0.000000 : 
+[11:44:48.464] epoch: 40 acc: 0.675000 acctrain: 1.000000 
+[11:44:49.847] loss 0.000000 : 
+[11:44:49.847] epoch: 41 acc: 0.675000 acctrain: 1.000000 
+[11:44:51.743] loss 0.000000 : 
+[11:44:51.743] epoch: 42 acc: 0.675000 acctrain: 1.000000 
+[11:44:53.596] loss 0.000000 : 
+[11:44:53.596] epoch: 43 acc: 0.675000 acctrain: 1.000000 
+[11:44:55.226] loss 0.000000 : 
+[11:44:55.226] epoch: 44 acc: 0.675000 acctrain: 1.000000 
+[11:44:56.952] loss 0.000000 : 
+[11:44:56.952] epoch: 45 acc: 0.675000 acctrain: 1.000000 
+[11:44:58.417] loss 0.000000 : 
+[11:44:58.417] epoch: 46 acc: 0.675000 acctrain: 1.000000 
+[11:44:59.762] loss 0.000000 : 
+[11:44:59.762] epoch: 47 acc: 0.675000 acctrain: 1.000000 
+[11:45:01.651] loss 0.000000 : 
+[11:45:01.651] epoch: 48 acc: 0.675000 acctrain: 1.000000 
+[11:45:03.496] loss 0.000000 : 
+[11:45:03.497] epoch: 49 acc: 0.675000 acctrain: 1.000000 
+[11:45:05.223] loss 0.000000 : 
+[11:45:05.223] epoch: 50 acc: 0.675000 acctrain: 1.000000 
+[11:45:07.284] loss 0.000000 : 
+[11:45:07.285] epoch: 51 acc: 0.675000 acctrain: 1.000000 
+[11:45:08.751] loss 0.000000 : 
+[11:45:08.751] epoch: 52 acc: 0.675000 acctrain: 1.000000 
+[11:45:10.765] loss 0.000000 : 
+[11:45:10.765] epoch: 53 acc: 0.675000 acctrain: 1.000000 
+[11:45:12.379] loss 0.000000 : 
+[11:45:12.379] epoch: 54 acc: 0.674000 acctrain: 1.000000 
+[11:45:14.198] loss 0.000000 : 
+[11:45:14.198] epoch: 55 acc: 0.674000 acctrain: 1.000000 
+[11:45:16.166] loss 0.000000 : 
+[11:45:16.166] epoch: 56 acc: 0.674000 acctrain: 1.000000 
+[11:45:17.863] loss 0.000000 : 
+[11:45:17.864] epoch: 57 acc: 0.674000 acctrain: 1.000000 
+[11:45:19.772] loss 0.000000 : 
+[11:45:19.772] epoch: 58 acc: 0.674000 acctrain: 1.000000 
+[11:45:21.256] loss 0.000000 : 
+[11:45:21.256] epoch: 59 acc: 0.674000 acctrain: 1.000000 
+[11:45:23.406] loss 0.000000 : 
+[11:45:23.406] epoch: 60 acc: 0.674000 acctrain: 1.000000 
+[11:45:25.172] loss 0.000000 : 
+[11:45:25.172] epoch: 61 acc: 0.674000 acctrain: 1.000000 
+[11:45:26.991] loss 0.000000 : 
+[11:45:26.991] epoch: 62 acc: 0.674000 acctrain: 1.000000 
+[11:45:28.532] loss 0.000000 : 
+[11:45:28.532] epoch: 63 acc: 0.674000 acctrain: 1.000000 
+[11:45:29.919] loss 0.000000 : 
+[11:45:29.920] epoch: 64 acc: 0.674000 acctrain: 1.000000 
+[11:45:31.880] loss 0.000000 : 
+[11:45:31.881] epoch: 65 acc: 0.674000 acctrain: 1.000000 
+[11:45:33.564] loss 0.000000 : 
+[11:45:33.565] epoch: 66 acc: 0.674000 acctrain: 1.000000 
+[11:45:35.284] loss 0.000000 : 
+[11:45:35.285] epoch: 67 acc: 0.674000 acctrain: 1.000000 
+[11:45:37.010] loss 0.000000 : 
+[11:45:37.011] epoch: 68 acc: 0.674000 acctrain: 1.000000 
+[11:45:38.610] loss 0.000000 : 
+[11:45:38.610] epoch: 69 acc: 0.674000 acctrain: 1.000000 
+[11:45:40.016] loss 0.000000 : 
+[11:45:40.016] epoch: 70 acc: 0.674000 acctrain: 1.000000 
+[11:45:41.627] loss 0.000000 : 
+[11:45:41.627] epoch: 71 acc: 0.674000 acctrain: 1.000000 
+[11:45:43.469] loss 0.000000 : 
+[11:45:43.469] epoch: 72 acc: 0.674000 acctrain: 1.000000 
+[11:45:45.085] loss 0.000000 : 
+[11:45:45.085] epoch: 73 acc: 0.674000 acctrain: 1.000000 
+[11:45:47.405] loss 0.000000 : 
+[11:45:47.406] epoch: 74 acc: 0.674000 acctrain: 1.000000 
+[11:45:48.649] loss 0.000000 : 
+[11:45:48.649] epoch: 75 acc: 0.674000 acctrain: 1.000000 
+[11:45:49.713] loss 0.000000 : 
+[11:45:49.713] epoch: 76 acc: 0.674000 acctrain: 1.000000 
+[11:45:51.220] loss 0.000000 : 
+[11:45:51.221] epoch: 77 acc: 0.674000 acctrain: 1.000000 
+[11:45:53.224] loss 0.000000 : 
+[11:45:53.224] epoch: 78 acc: 0.674000 acctrain: 1.000000 
+[11:45:54.867] loss 0.000000 : 
+[11:45:54.867] epoch: 79 acc: 0.674000 acctrain: 1.000000 
+[11:45:56.515] loss 0.000000 : 
+[11:45:56.515] epoch: 80 acc: 0.674000 acctrain: 1.000000 
+[11:45:58.253] loss 0.000000 : 
+[11:45:58.253] epoch: 81 acc: 0.674000 acctrain: 1.000000 
+[11:45:59.685] loss 0.000000 : 
+[11:45:59.686] epoch: 82 acc: 0.674000 acctrain: 1.000000 
+[11:46:01.003] loss 0.000000 : 
+[11:46:01.003] epoch: 83 acc: 0.674000 acctrain: 1.000000 
+[11:46:03.333] loss 0.000000 : 
+[11:46:03.333] epoch: 84 acc: 0.674000 acctrain: 1.000000 
+[11:46:05.098] loss 0.000000 : 
+[11:46:05.098] epoch: 85 acc: 0.674000 acctrain: 1.000000 
+[11:46:06.782] loss 0.000000 : 
+[11:46:06.782] epoch: 86 acc: 0.674000 acctrain: 1.000000 
+[11:46:08.441] loss 0.000000 : 
+[11:46:08.441] epoch: 87 acc: 0.674000 acctrain: 1.000000 
+[11:46:09.647] loss 0.000000 : 
+[11:46:09.647] epoch: 88 acc: 0.674000 acctrain: 1.000000 
+[11:46:11.025] loss 0.000000 : 
+[11:46:11.025] epoch: 89 acc: 0.674000 acctrain: 1.000000 
+[11:46:13.470] loss 0.000000 : 
+[11:46:13.471] epoch: 90 acc: 0.674000 acctrain: 1.000000 
+[11:46:15.172] loss 0.000000 : 
+[11:46:15.172] epoch: 91 acc: 0.674000 acctrain: 1.000000 
+[11:46:16.921] loss 0.000000 : 
+[11:46:16.922] epoch: 92 acc: 0.674000 acctrain: 1.000000 
+[11:46:18.531] loss 0.000000 : 
+[11:46:18.532] epoch: 93 acc: 0.674000 acctrain: 1.000000 
+[11:46:20.095] loss 0.000000 : 
+[11:46:20.096] epoch: 94 acc: 0.674000 acctrain: 1.000000 
+[11:46:22.463] loss 0.000000 : 
+[11:46:22.463] epoch: 95 acc: 0.674000 acctrain: 1.000000 
+[11:46:24.103] loss 0.000000 : 
+[11:46:24.103] epoch: 96 acc: 0.674000 acctrain: 1.000000 
+[11:46:25.844] loss 0.000000 : 
+[11:46:25.845] epoch: 97 acc: 0.674000 acctrain: 1.000000 
+[11:46:27.480] loss 0.000000 : 
+[11:46:27.480] epoch: 98 acc: 0.674000 acctrain: 1.000000 
+[11:46:29.011] loss 0.000000 : 
+[11:46:29.012] epoch: 99 acc: 0.674000 acctrain: 1.000000 
+[11:46:31.238] loss 0.000000 : 
+[11:46:31.238] epoch: 100 acc: 0.674000 acctrain: 1.000000 
+[11:46:32.789] loss 0.000000 : 
+[11:46:32.790] epoch: 101 acc: 0.674000 acctrain: 1.000000 
+[11:46:34.464] loss 0.000000 : 
+[11:46:34.464] epoch: 102 acc: 0.674000 acctrain: 1.000000 
+[11:46:36.505] loss 0.000000 : 
+[11:46:36.505] epoch: 103 acc: 0.674000 acctrain: 1.000000 
+[11:46:38.353] loss 0.000000 : 
+[11:46:38.353] epoch: 104 acc: 0.674000 acctrain: 1.000000 
+[11:46:39.680] loss 0.000000 : 
+[11:46:39.681] epoch: 105 acc: 0.674000 acctrain: 1.000000 
+[11:46:41.350] loss 0.000000 : 
+[11:46:41.350] epoch: 106 acc: 0.674000 acctrain: 1.000000 
+[11:46:43.243] loss 0.000000 : 
+[11:46:43.244] epoch: 107 acc: 0.674000 acctrain: 1.000000 
+[11:46:45.262] loss 0.000000 : 
+[11:46:45.263] epoch: 108 acc: 0.674000 acctrain: 1.000000 
+[11:46:46.981] loss 0.000000 : 
+[11:46:46.981] epoch: 109 acc: 0.674000 acctrain: 1.000000 
+[11:46:49.153] loss 0.000000 : 
+[11:46:49.153] epoch: 110 acc: 0.674000 acctrain: 1.000000 
+[11:46:50.889] loss 0.000000 : 
+[11:46:50.889] epoch: 111 acc: 0.674000 acctrain: 1.000000 
+[11:46:52.532] loss 0.000000 : 
+[11:46:52.532] epoch: 112 acc: 0.674000 acctrain: 1.000000 
+[11:46:54.605] loss 0.000000 : 
+[11:46:54.606] epoch: 113 acc: 0.674000 acctrain: 1.000000 
+[11:46:56.315] loss 0.000000 : 
+[11:46:56.316] epoch: 114 acc: 0.674000 acctrain: 1.000000 
+[11:46:58.468] loss 0.000000 : 
+[11:46:58.468] epoch: 115 acc: 0.674000 acctrain: 1.000000 
+[11:46:59.888] loss 0.000000 : 
+[11:46:59.889] epoch: 116 acc: 0.674000 acctrain: 1.000000 
+[11:47:00.984] loss 0.000000 : 
+[11:47:00.984] epoch: 117 acc: 0.674000 acctrain: 1.000000 
+[11:47:02.328] loss 0.000000 : 
+[11:47:02.329] epoch: 118 acc: 0.674000 acctrain: 1.000000 
+[11:47:04.337] loss 0.000000 : 
+[11:47:04.337] epoch: 119 acc: 0.674000 acctrain: 1.000000 
+[11:47:06.404] loss 0.000000 : 
+[11:47:06.404] epoch: 120 acc: 0.674000 acctrain: 1.000000 
+[11:47:08.296] loss 0.000000 : 
+[11:47:08.296] epoch: 121 acc: 0.674000 acctrain: 1.000000 
+[11:47:10.322] loss 0.000000 : 
+[11:47:10.322] epoch: 122 acc: 0.674000 acctrain: 1.000000 
+[11:47:12.007] loss 0.000000 : 
+[11:47:12.007] epoch: 123 acc: 0.674000 acctrain: 1.000000 
+[11:47:13.980] loss 0.000000 : 
+[11:47:13.980] epoch: 124 acc: 0.674000 acctrain: 1.000000 
+[11:47:15.627] loss 0.000000 : 
+[11:47:15.627] epoch: 125 acc: 0.674000 acctrain: 1.000000 
+[11:47:17.537] loss 0.000000 : 
+[11:47:17.538] epoch: 126 acc: 0.674000 acctrain: 1.000000 
+[11:47:19.207] loss 0.000000 : 
+[11:47:19.208] epoch: 127 acc: 0.674000 acctrain: 1.000000 
+[11:47:21.185] loss 0.000000 : 
+[11:47:21.185] epoch: 128 acc: 0.674000 acctrain: 1.000000 
+[11:47:22.512] loss 0.000000 : 
+[11:47:22.512] epoch: 129 acc: 0.674000 acctrain: 1.000000 
+[11:47:24.472] loss 0.000000 : 
+[11:47:24.472] epoch: 130 acc: 0.674000 acctrain: 1.000000 
+[11:47:26.539] loss 0.000000 : 
+[11:47:26.539] epoch: 131 acc: 0.674000 acctrain: 1.000000 
+[11:47:28.639] loss 0.000000 : 
+[11:47:28.640] epoch: 132 acc: 0.674000 acctrain: 1.000000 
+[11:47:30.578] loss 0.000000 : 
+[11:47:30.578] epoch: 133 acc: 0.674000 acctrain: 1.000000 
+[11:47:32.166] loss 0.000000 : 
+[11:47:32.166] epoch: 134 acc: 0.674000 acctrain: 1.000000 
+[11:47:34.072] loss 0.000000 : 
+[11:47:34.072] epoch: 135 acc: 0.674000 acctrain: 1.000000 
+[11:47:35.649] loss 0.000000 : 
+[11:47:35.650] epoch: 136 acc: 0.674000 acctrain: 1.000000 
+[11:47:37.287] loss 0.000000 : 
+[11:47:37.287] epoch: 137 acc: 0.674000 acctrain: 1.000000 
+[11:47:39.368] loss 0.000000 : 
+[11:47:39.368] epoch: 138 acc: 0.674000 acctrain: 1.000000 
+[11:47:40.826] loss 0.000000 : 
+[11:47:40.827] epoch: 139 acc: 0.674000 acctrain: 1.000000 
+[11:47:42.477] loss 0.000000 : 
+[11:47:42.477] epoch: 140 acc: 0.674000 acctrain: 1.000000 
+[11:47:44.460] loss 0.000000 : 
+[11:47:44.460] epoch: 141 acc: 0.674000 acctrain: 1.000000 
+[11:47:46.257] loss 0.000000 : 
+[11:47:46.257] epoch: 142 acc: 0.674000 acctrain: 1.000000 
+[11:47:48.189] loss 0.000000 : 
+[11:47:48.189] epoch: 143 acc: 0.674000 acctrain: 1.000000 
+[11:47:49.979] loss 0.000000 : 
+[11:47:49.979] epoch: 144 acc: 0.674000 acctrain: 1.000000 
+[11:47:52.007] loss 0.000000 : 
+[11:47:52.007] epoch: 145 acc: 0.674000 acctrain: 1.000000 
+[11:47:53.559] loss 0.000000 : 
+[11:47:53.559] epoch: 146 acc: 0.674000 acctrain: 1.000000 
+[11:47:55.217] loss 0.000000 : 
+[11:47:55.217] epoch: 147 acc: 0.674000 acctrain: 1.000000 
+[11:47:57.244] loss 0.000000 : 
+[11:47:57.244] epoch: 148 acc: 0.674000 acctrain: 1.000000 
+[11:47:59.168] loss 0.000000 : 
+[11:47:59.168] epoch: 149 acc: 0.674000 acctrain: 1.000000 
+[11:48:00.979] loss 0.000000 : 
+[11:48:00.979] epoch: 150 acc: 0.674000 acctrain: 1.000000 
+[11:48:02.092] loss 0.000000 : 
+[11:48:02.092] epoch: 151 acc: 0.674000 acctrain: 1.000000 
+[11:48:03.105] loss 0.000000 : 
+[11:48:03.105] epoch: 152 acc: 0.674000 acctrain: 1.000000 
+[11:48:04.962] loss 0.000000 : 
+[11:48:04.963] epoch: 153 acc: 0.674000 acctrain: 1.000000 
+[11:48:07.103] loss 0.000000 : 
+[11:48:07.103] epoch: 154 acc: 0.674000 acctrain: 1.000000 
+[11:48:09.261] loss 0.000000 : 
+[11:48:09.261] epoch: 155 acc: 0.674000 acctrain: 1.000000 
+[11:48:10.907] loss 0.000000 : 
+[11:48:10.907] epoch: 156 acc: 0.674000 acctrain: 1.000000 
+[11:48:12.220] loss 0.000000 : 
+[11:48:12.220] epoch: 157 acc: 0.674000 acctrain: 1.000000 
+[11:48:14.121] loss 0.000000 : 
+[11:48:14.122] epoch: 158 acc: 0.674000 acctrain: 1.000000 
+[11:48:15.866] loss 0.000000 : 
+[11:48:15.867] epoch: 159 acc: 0.674000 acctrain: 1.000000 
+[11:48:17.979] loss 0.000000 : 
+[11:48:17.979] epoch: 160 acc: 0.674000 acctrain: 1.000000 
+[11:48:19.852] loss 0.000000 : 
+[11:48:19.852] epoch: 161 acc: 0.674000 acctrain: 1.000000 
+[11:48:21.371] loss 0.000000 : 
+[11:48:21.372] epoch: 162 acc: 0.674000 acctrain: 1.000000 
+[11:48:23.353] loss 0.000000 : 
+[11:48:23.353] epoch: 163 acc: 0.674000 acctrain: 1.000000 
+[11:48:25.123] loss 0.000000 : 
+[11:48:25.123] epoch: 164 acc: 0.674000 acctrain: 1.000000 
+[11:48:27.069] loss 0.000000 : 
+[11:48:27.069] epoch: 165 acc: 0.674000 acctrain: 1.000000 
+[11:48:29.071] loss 0.000000 : 
+[11:48:29.071] epoch: 166 acc: 0.674000 acctrain: 1.000000 
+[11:48:30.966] loss 0.000000 : 
+[11:48:30.967] epoch: 167 acc: 0.674000 acctrain: 1.000000 
+[11:48:32.811] loss 0.000000 : 
+[11:48:32.811] epoch: 168 acc: 0.674000 acctrain: 1.000000 
+[11:48:34.081] loss 0.000000 : 
+[11:48:34.082] epoch: 169 acc: 0.674000 acctrain: 1.000000 
+[11:48:35.794] loss 0.000000 : 
+[11:48:35.794] epoch: 170 acc: 0.674000 acctrain: 1.000000 
+[11:48:37.951] loss 0.000000 : 
+[11:48:37.951] epoch: 171 acc: 0.674000 acctrain: 1.000000 
+[11:48:39.614] loss 0.000000 : 
+[11:48:39.615] epoch: 172 acc: 0.674000 acctrain: 1.000000 
+[11:48:41.099] loss 0.000000 : 
+[11:48:41.099] epoch: 173 acc: 0.674000 acctrain: 1.000000 
+[11:48:42.965] loss 0.000000 : 
+[11:48:42.965] epoch: 174 acc: 0.674000 acctrain: 1.000000 
+[11:48:44.225] loss 0.000000 : 
+[11:48:44.226] epoch: 175 acc: 0.674000 acctrain: 1.000000 
+[11:48:45.874] loss 0.000000 : 
+[11:48:45.874] epoch: 176 acc: 0.674000 acctrain: 1.000000 
+[11:48:47.697] loss 0.000000 : 
+[11:48:47.697] epoch: 177 acc: 0.674000 acctrain: 1.000000 
+[11:48:49.256] loss 0.000000 : 
+[11:48:49.257] epoch: 178 acc: 0.674000 acctrain: 1.000000 
+[11:48:51.077] loss 0.000000 : 
+[11:48:51.077] epoch: 179 acc: 0.674000 acctrain: 1.000000 
+[11:48:52.694] loss 0.000000 : 
+[11:48:52.695] epoch: 180 acc: 0.674000 acctrain: 1.000000 
+[11:48:53.990] loss 0.000000 : 
+[11:48:53.990] epoch: 181 acc: 0.674000 acctrain: 1.000000 
+[11:48:55.890] loss 0.000000 : 
+[11:48:55.890] epoch: 182 acc: 0.674000 acctrain: 1.000000 
+[11:48:57.633] loss 0.000000 : 
+[11:48:57.634] epoch: 183 acc: 0.674000 acctrain: 1.000000 
+[11:48:59.286] loss 0.000000 : 
+[11:48:59.286] epoch: 184 acc: 0.674000 acctrain: 1.000000 
+[11:49:01.301] loss 0.000000 : 
+[11:49:01.302] epoch: 185 acc: 0.674000 acctrain: 1.000000 
+[11:49:03.131] loss 0.000000 : 
+[11:49:03.131] epoch: 186 acc: 0.674000 acctrain: 1.000000 
+[11:49:04.966] loss 0.000000 : 
+[11:49:04.966] epoch: 187 acc: 0.674000 acctrain: 1.000000 
+[11:49:06.753] loss 0.000000 : 
+[11:49:06.754] epoch: 188 acc: 0.674000 acctrain: 1.000000 
+[11:49:08.853] loss 0.000000 : 
+[11:49:08.853] epoch: 189 acc: 0.674000 acctrain: 1.000000 
+[11:49:10.479] loss 0.000000 : 
+[11:49:10.479] epoch: 190 acc: 0.674000 acctrain: 1.000000 
+[11:49:12.335] loss 0.000000 : 
+[11:49:12.335] epoch: 191 acc: 0.674000 acctrain: 1.000000 
+[11:49:14.168] loss 0.000000 : 
+[11:49:14.168] epoch: 192 acc: 0.674000 acctrain: 1.000000 
+[11:49:15.788] loss 0.000000 : 
+[11:49:15.788] epoch: 193 acc: 0.674000 acctrain: 1.000000 
+[11:49:18.047] loss 0.000000 : 
+[11:49:18.047] epoch: 194 acc: 0.674000 acctrain: 1.000000 
+[11:49:19.595] loss 0.000000 : 
+[11:49:19.596] epoch: 195 acc: 0.674000 acctrain: 1.000000 
+[11:49:21.737] loss 0.000000 : 
+[11:49:21.737] epoch: 196 acc: 0.674000 acctrain: 1.000000 
+[11:49:23.211] loss 0.000000 : 
+[11:49:23.211] epoch: 197 acc: 0.674000 acctrain: 1.000000 
+[11:49:25.226] loss 0.000000 : 
+[11:49:25.226] epoch: 198 acc: 0.674000 acctrain: 1.000000 
+[11:49:27.533] loss 0.000000 : 
+[11:49:27.534] epoch: 199 acc: 0.674000 acctrain: 1.000000 
+[17:27:43.195] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[17:28:16.024] loss 1.948517 : 
+[17:28:16.024] epoch: 0 acc: 0.103000 acctrain: 0.142857 
+[17:28:16.033] loss 1.901155 : 
+[17:28:16.034] epoch: 1 acc: 0.206000 acctrain: 0.678571 
+[17:28:16.040] loss 1.786414 : 
+[17:28:16.040] epoch: 2 acc: 0.128000 acctrain: 0.942857 
+[17:28:16.046] loss 1.607713 : 
+[17:28:16.046] epoch: 3 acc: 0.217000 acctrain: 1.000000 
+[17:28:16.051] loss 1.371938 : 
+[17:28:16.052] epoch: 4 acc: 0.264000 acctrain: 1.000000 
+[17:28:16.057] loss 1.095500 : 
+[17:28:16.057] epoch: 5 acc: 0.310000 acctrain: 1.000000 
+[17:28:16.063] loss 0.806684 : 
+[17:28:16.063] epoch: 6 acc: 0.324000 acctrain: 1.000000 
+[17:28:16.068] loss 0.539096 : 
+[17:28:16.068] epoch: 7 acc: 0.377000 acctrain: 1.000000 
+[17:28:16.087] loss 0.323041 : 
+[17:28:16.087] epoch: 8 acc: 0.418000 acctrain: 1.000000 
+[17:28:16.093] loss 0.173086 : 
+[17:28:16.093] epoch: 9 acc: 0.455000 acctrain: 1.000000 
+[17:28:16.098] loss 0.084180 : 
+[17:28:16.098] epoch: 10 acc: 0.474000 acctrain: 1.000000 
+[17:28:16.103] loss 0.038587 : 
+[17:28:16.103] epoch: 11 acc: 0.492000 acctrain: 1.000000 
+[17:28:16.108] loss 0.017358 : 
+[17:28:16.108] epoch: 12 acc: 0.488000 acctrain: 1.000000 
+[17:28:16.113] loss 0.007869 : 
+[17:28:16.113] epoch: 13 acc: 0.478000 acctrain: 1.000000 
+[17:28:16.118] loss 0.003653 : 
+[17:28:16.118] epoch: 14 acc: 0.479000 acctrain: 1.000000 
+[17:28:16.123] loss 0.001752 : 
+[17:28:16.123] epoch: 15 acc: 0.481000 acctrain: 1.000000 
+[17:28:16.128] loss 0.000872 : 
+[17:28:16.128] epoch: 16 acc: 0.481000 acctrain: 1.000000 
+[17:28:16.133] loss 0.000452 : 
+[17:28:16.133] epoch: 17 acc: 0.484000 acctrain: 1.000000 
+[17:28:16.138] loss 0.000244 : 
+[17:28:16.138] epoch: 18 acc: 0.480000 acctrain: 1.000000 
+[17:28:16.144] loss 0.000137 : 
+[17:28:16.144] epoch: 19 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.149] loss 0.000080 : 
+[17:28:16.149] epoch: 20 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.154] loss 0.000063 : 
+[17:28:16.154] epoch: 21 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.159] loss 0.000050 : 
+[17:28:16.159] epoch: 22 acc: 0.481000 acctrain: 1.000000 
+[17:28:16.164] loss 0.000040 : 
+[17:28:16.164] epoch: 23 acc: 0.481000 acctrain: 1.000000 
+[17:28:16.170] loss 0.000033 : 
+[17:28:16.170] epoch: 24 acc: 0.481000 acctrain: 1.000000 
+[17:28:16.175] loss 0.000028 : 
+[17:28:16.175] epoch: 25 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.180] loss 0.000024 : 
+[17:28:16.180] epoch: 26 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.185] loss 0.000020 : 
+[17:28:16.185] epoch: 27 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.189] loss 0.000018 : 
+[17:28:16.190] epoch: 28 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.194] loss 0.000016 : 
+[17:28:16.194] epoch: 29 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.199] loss 0.000014 : 
+[17:28:16.199] epoch: 30 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.204] loss 0.000013 : 
+[17:28:16.204] epoch: 31 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.209] loss 0.000012 : 
+[17:28:16.209] epoch: 32 acc: 0.484000 acctrain: 1.000000 
+[17:28:16.214] loss 0.000011 : 
+[17:28:16.214] epoch: 33 acc: 0.484000 acctrain: 1.000000 
+[17:28:16.219] loss 0.000010 : 
+[17:28:16.219] epoch: 34 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.224] loss 0.000009 : 
+[17:28:16.224] epoch: 35 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.229] loss 0.000008 : 
+[17:28:16.229] epoch: 36 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.234] loss 0.000008 : 
+[17:28:16.234] epoch: 37 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.240] loss 0.000008 : 
+[17:28:16.240] epoch: 38 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.244] loss 0.000007 : 
+[17:28:16.245] epoch: 39 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.250] loss 0.000007 : 
+[17:28:16.250] epoch: 40 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.258] loss 0.000007 : 
+[17:28:16.258] epoch: 41 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.264] loss 0.000007 : 
+[17:28:16.264] epoch: 42 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.270] loss 0.000006 : 
+[17:28:16.271] epoch: 43 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.276] loss 0.000006 : 
+[17:28:16.277] epoch: 44 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.282] loss 0.000006 : 
+[17:28:16.282] epoch: 45 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.287] loss 0.000006 : 
+[17:28:16.288] epoch: 46 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.292] loss 0.000006 : 
+[17:28:16.292] epoch: 47 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.298] loss 0.000006 : 
+[17:28:16.298] epoch: 48 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.302] loss 0.000006 : 
+[17:28:16.303] epoch: 49 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.307] loss 0.000006 : 
+[17:28:16.307] epoch: 50 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.312] loss 0.000006 : 
+[17:28:16.312] epoch: 51 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.317] loss 0.000006 : 
+[17:28:16.317] epoch: 52 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.342] loss 0.000006 : 
+[17:28:16.342] epoch: 53 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.347] loss 0.000006 : 
+[17:28:16.348] epoch: 54 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.353] loss 0.000006 : 
+[17:28:16.353] epoch: 55 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.358] loss 0.000006 : 
+[17:28:16.358] epoch: 56 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.364] loss 0.000006 : 
+[17:28:16.364] epoch: 57 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.368] loss 0.000006 : 
+[17:28:16.368] epoch: 58 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.373] loss 0.000006 : 
+[17:28:16.373] epoch: 59 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.378] loss 0.000006 : 
+[17:28:16.378] epoch: 60 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.383] loss 0.000006 : 
+[17:28:16.383] epoch: 61 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.388] loss 0.000006 : 
+[17:28:16.388] epoch: 62 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.393] loss 0.000006 : 
+[17:28:16.393] epoch: 63 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.398] loss 0.000006 : 
+[17:28:16.398] epoch: 64 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.403] loss 0.000006 : 
+[17:28:16.403] epoch: 65 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.408] loss 0.000006 : 
+[17:28:16.408] epoch: 66 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.413] loss 0.000006 : 
+[17:28:16.413] epoch: 67 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.418] loss 0.000006 : 
+[17:28:16.418] epoch: 68 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.423] loss 0.000006 : 
+[17:28:16.423] epoch: 69 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.429] loss 0.000006 : 
+[17:28:16.429] epoch: 70 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.434] loss 0.000006 : 
+[17:28:16.434] epoch: 71 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.438] loss 0.000006 : 
+[17:28:16.439] epoch: 72 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.443] loss 0.000006 : 
+[17:28:16.443] epoch: 73 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.448] loss 0.000006 : 
+[17:28:16.448] epoch: 74 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.453] loss 0.000006 : 
+[17:28:16.453] epoch: 75 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.458] loss 0.000006 : 
+[17:28:16.458] epoch: 76 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.463] loss 0.000006 : 
+[17:28:16.463] epoch: 77 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.468] loss 0.000006 : 
+[17:28:16.468] epoch: 78 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.473] loss 0.000006 : 
+[17:28:16.473] epoch: 79 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.478] loss 0.000006 : 
+[17:28:16.478] epoch: 80 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.483] loss 0.000006 : 
+[17:28:16.483] epoch: 81 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.488] loss 0.000006 : 
+[17:28:16.488] epoch: 82 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.493] loss 0.000006 : 
+[17:28:16.493] epoch: 83 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.498] loss 0.000006 : 
+[17:28:16.498] epoch: 84 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.503] loss 0.000006 : 
+[17:28:16.503] epoch: 85 acc: 0.482000 acctrain: 1.000000 
+[17:28:16.508] loss 0.000006 : 
+[17:28:16.508] epoch: 86 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.513] loss 0.000006 : 
+[17:28:16.513] epoch: 87 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.518] loss 0.000006 : 
+[17:28:16.518] epoch: 88 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.523] loss 0.000006 : 
+[17:28:16.523] epoch: 89 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.528] loss 0.000006 : 
+[17:28:16.528] epoch: 90 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.532] loss 0.000006 : 
+[17:28:16.533] epoch: 91 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.537] loss 0.000006 : 
+[17:28:16.537] epoch: 92 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.542] loss 0.000006 : 
+[17:28:16.542] epoch: 93 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.547] loss 0.000006 : 
+[17:28:16.547] epoch: 94 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.552] loss 0.000006 : 
+[17:28:16.552] epoch: 95 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.557] loss 0.000006 : 
+[17:28:16.557] epoch: 96 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.562] loss 0.000006 : 
+[17:28:16.562] epoch: 97 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.790] loss 0.000005 : 
+[17:28:16.791] epoch: 98 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.797] loss 0.000005 : 
+[17:28:16.797] epoch: 99 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.803] loss 0.000005 : 
+[17:28:16.803] epoch: 100 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.808] loss 0.000005 : 
+[17:28:16.808] epoch: 101 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.813] loss 0.000005 : 
+[17:28:16.814] epoch: 102 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.819] loss 0.000005 : 
+[17:28:16.819] epoch: 103 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.824] loss 0.000005 : 
+[17:28:16.824] epoch: 104 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.829] loss 0.000005 : 
+[17:28:16.830] epoch: 105 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.835] loss 0.000005 : 
+[17:28:16.835] epoch: 106 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.840] loss 0.000005 : 
+[17:28:16.840] epoch: 107 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.845] loss 0.000005 : 
+[17:28:16.846] epoch: 108 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.851] loss 0.000005 : 
+[17:28:16.851] epoch: 109 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.856] loss 0.000005 : 
+[17:28:16.856] epoch: 110 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.861] loss 0.000005 : 
+[17:28:16.861] epoch: 111 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.867] loss 0.000005 : 
+[17:28:16.867] epoch: 112 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.873] loss 0.000005 : 
+[17:28:16.873] epoch: 113 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.878] loss 0.000005 : 
+[17:28:16.878] epoch: 114 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.884] loss 0.000005 : 
+[17:28:16.884] epoch: 115 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.888] loss 0.000005 : 
+[17:28:16.889] epoch: 116 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.893] loss 0.000005 : 
+[17:28:16.893] epoch: 117 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.899] loss 0.000005 : 
+[17:28:16.899] epoch: 118 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.904] loss 0.000005 : 
+[17:28:16.904] epoch: 119 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.909] loss 0.000005 : 
+[17:28:16.909] epoch: 120 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.914] loss 0.000005 : 
+[17:28:16.914] epoch: 121 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.919] loss 0.000005 : 
+[17:28:16.919] epoch: 122 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.924] loss 0.000005 : 
+[17:28:16.924] epoch: 123 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.929] loss 0.000005 : 
+[17:28:16.929] epoch: 124 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.934] loss 0.000005 : 
+[17:28:16.934] epoch: 125 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.939] loss 0.000005 : 
+[17:28:16.939] epoch: 126 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.944] loss 0.000005 : 
+[17:28:16.944] epoch: 127 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.949] loss 0.000005 : 
+[17:28:16.949] epoch: 128 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.954] loss 0.000005 : 
+[17:28:16.954] epoch: 129 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.960] loss 0.000005 : 
+[17:28:16.960] epoch: 130 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.965] loss 0.000005 : 
+[17:28:16.965] epoch: 131 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.970] loss 0.000005 : 
+[17:28:16.970] epoch: 132 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.975] loss 0.000005 : 
+[17:28:16.975] epoch: 133 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.980] loss 0.000005 : 
+[17:28:16.980] epoch: 134 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.985] loss 0.000005 : 
+[17:28:16.985] epoch: 135 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.991] loss 0.000005 : 
+[17:28:16.991] epoch: 136 acc: 0.483000 acctrain: 1.000000 
+[17:28:16.996] loss 0.000005 : 
+[17:28:16.996] epoch: 137 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.001] loss 0.000005 : 
+[17:28:17.001] epoch: 138 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.006] loss 0.000005 : 
+[17:28:17.006] epoch: 139 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.011] loss 0.000005 : 
+[17:28:17.011] epoch: 140 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.016] loss 0.000005 : 
+[17:28:17.016] epoch: 141 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.021] loss 0.000005 : 
+[17:28:17.021] epoch: 142 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.026] loss 0.000005 : 
+[17:28:17.026] epoch: 143 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.031] loss 0.000005 : 
+[17:28:17.031] epoch: 144 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.036] loss 0.000005 : 
+[17:28:17.036] epoch: 145 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.041] loss 0.000005 : 
+[17:28:17.041] epoch: 146 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.046] loss 0.000005 : 
+[17:28:17.046] epoch: 147 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.050] loss 0.000005 : 
+[17:28:17.050] epoch: 148 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.055] loss 0.000005 : 
+[17:28:17.055] epoch: 149 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.060] loss 0.000005 : 
+[17:28:17.060] epoch: 150 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.064] loss 0.000005 : 
+[17:28:17.064] epoch: 151 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.069] loss 0.000005 : 
+[17:28:17.069] epoch: 152 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.074] loss 0.000005 : 
+[17:28:17.074] epoch: 153 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.078] loss 0.000005 : 
+[17:28:17.078] epoch: 154 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.084] loss 0.000005 : 
+[17:28:17.084] epoch: 155 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.089] loss 0.000005 : 
+[17:28:17.089] epoch: 156 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.093] loss 0.000005 : 
+[17:28:17.094] epoch: 157 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.098] loss 0.000005 : 
+[17:28:17.098] epoch: 158 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.103] loss 0.000005 : 
+[17:28:17.103] epoch: 159 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.107] loss 0.000005 : 
+[17:28:17.107] epoch: 160 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.112] loss 0.000005 : 
+[17:28:17.112] epoch: 161 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.116] loss 0.000005 : 
+[17:28:17.116] epoch: 162 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.121] loss 0.000005 : 
+[17:28:17.121] epoch: 163 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.126] loss 0.000005 : 
+[17:28:17.126] epoch: 164 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.130] loss 0.000005 : 
+[17:28:17.130] epoch: 165 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.135] loss 0.000005 : 
+[17:28:17.135] epoch: 166 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.140] loss 0.000005 : 
+[17:28:17.140] epoch: 167 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.144] loss 0.000005 : 
+[17:28:17.144] epoch: 168 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.149] loss 0.000005 : 
+[17:28:17.149] epoch: 169 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.153] loss 0.000005 : 
+[17:28:17.153] epoch: 170 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.158] loss 0.000005 : 
+[17:28:17.158] epoch: 171 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.162] loss 0.000005 : 
+[17:28:17.162] epoch: 172 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.166] loss 0.000005 : 
+[17:28:17.166] epoch: 173 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.171] loss 0.000005 : 
+[17:28:17.171] epoch: 174 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.175] loss 0.000005 : 
+[17:28:17.175] epoch: 175 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.179] loss 0.000005 : 
+[17:28:17.179] epoch: 176 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.184] loss 0.000005 : 
+[17:28:17.184] epoch: 177 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.188] loss 0.000005 : 
+[17:28:17.188] epoch: 178 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.193] loss 0.000005 : 
+[17:28:17.193] epoch: 179 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.197] loss 0.000005 : 
+[17:28:17.197] epoch: 180 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.201] loss 0.000005 : 
+[17:28:17.201] epoch: 181 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.206] loss 0.000005 : 
+[17:28:17.206] epoch: 182 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.210] loss 0.000005 : 
+[17:28:17.210] epoch: 183 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.215] loss 0.000005 : 
+[17:28:17.215] epoch: 184 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.219] loss 0.000005 : 
+[17:28:17.219] epoch: 185 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.224] loss 0.000005 : 
+[17:28:17.224] epoch: 186 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.228] loss 0.000005 : 
+[17:28:17.228] epoch: 187 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.232] loss 0.000005 : 
+[17:28:17.232] epoch: 188 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.237] loss 0.000005 : 
+[17:28:17.237] epoch: 189 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.241] loss 0.000005 : 
+[17:28:17.241] epoch: 190 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.246] loss 0.000005 : 
+[17:28:17.246] epoch: 191 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.250] loss 0.000005 : 
+[17:28:17.250] epoch: 192 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.255] loss 0.000005 : 
+[17:28:17.255] epoch: 193 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.259] loss 0.000005 : 
+[17:28:17.259] epoch: 194 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.264] loss 0.000005 : 
+[17:28:17.264] epoch: 195 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.268] loss 0.000005 : 
+[17:28:17.268] epoch: 196 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.272] loss 0.000005 : 
+[17:28:17.273] epoch: 197 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.277] loss 0.000005 : 
+[17:28:17.277] epoch: 198 acc: 0.483000 acctrain: 1.000000 
+[17:28:17.281] loss 0.000005 : 
+[17:28:17.281] epoch: 199 acc: 0.483000 acctrain: 1.000000 
+[21:12:33.920] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[21:15:46.021] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[22:33:25.947] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[22:38:45.408] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='generate', workers=1)
+[22:46:10.938] Time used for GST: 445 
+[22:46:19.557] loss 1.946635 : 
+[22:46:19.558] epoch: 0 acc: 0.149000 acctrain: 0.142857 
+[22:46:21.140] loss 1.719947 : 
+[22:46:21.140] epoch: 1 acc: 0.175000 acctrain: 0.428571 
+[22:46:22.812] loss 2.300429 : 
+[22:46:22.864] epoch: 2 acc: 0.530000 acctrain: 0.635714 
+[22:46:24.540] loss 0.755073 : 
+[22:46:24.540] epoch: 3 acc: 0.562000 acctrain: 0.828571 
+[22:46:26.212] loss 0.488437 : 
+[22:46:26.212] epoch: 4 acc: 0.623000 acctrain: 0.971429 
+[22:46:27.881] loss 0.376515 : 
+[22:46:27.881] epoch: 5 acc: 0.596000 acctrain: 0.957143 
+[22:46:29.553] loss 0.167274 : 
+[22:46:29.553] epoch: 6 acc: 0.694000 acctrain: 0.985714 
+[22:46:31.229] loss 0.119681 : 
+[22:46:31.229] epoch: 7 acc: 0.784000 acctrain: 1.000000 
+[22:46:32.915] loss 0.115906 : 
+[22:46:32.916] epoch: 8 acc: 0.780000 acctrain: 1.000000 
+[22:46:34.613] loss 0.074569 : 
+[22:46:34.613] epoch: 9 acc: 0.803000 acctrain: 1.000000 
+[22:46:36.324] loss 0.071369 : 
+[22:46:36.324] epoch: 10 acc: 0.785000 acctrain: 1.000000 
+[22:46:38.026] loss 0.056492 : 
+[22:46:38.026] epoch: 11 acc: 0.774000 acctrain: 1.000000 
+[22:46:39.734] loss 0.050068 : 
+[22:46:39.734] epoch: 12 acc: 0.774000 acctrain: 1.000000 
+[22:46:41.448] loss 0.022661 : 
+[22:46:41.448] epoch: 13 acc: 0.767000 acctrain: 1.000000 
+[22:46:43.168] loss 0.031984 : 
+[22:46:43.169] epoch: 14 acc: 0.753000 acctrain: 1.000000 
+[22:46:44.886] loss 0.012538 : 
+[22:46:44.930] epoch: 15 acc: 0.740000 acctrain: 1.000000 
+[22:46:46.648] loss 0.040968 : 
+[22:46:46.648] epoch: 16 acc: 0.735000 acctrain: 1.000000 
+[22:46:48.362] loss 0.012049 : 
+[22:46:48.362] epoch: 17 acc: 0.734000 acctrain: 1.000000 
+[22:46:50.068] loss 0.054148 : 
+[22:46:50.068] epoch: 18 acc: 0.734000 acctrain: 1.000000 
+[22:46:51.775] loss 0.013884 : 
+[22:46:51.775] epoch: 19 acc: 0.738000 acctrain: 1.000000 
+[22:46:53.497] loss 0.027842 : 
+[22:46:53.572] epoch: 20 acc: 0.738000 acctrain: 1.000000 
+[22:46:55.282] loss 0.044181 : 
+[22:46:55.282] epoch: 21 acc: 0.747000 acctrain: 1.000000 
+[22:46:56.989] loss 0.008240 : 
+[22:46:56.989] epoch: 22 acc: 0.751000 acctrain: 1.000000 
+[22:46:58.694] loss 0.009281 : 
+[22:46:58.694] epoch: 23 acc: 0.751000 acctrain: 1.000000 
+[22:47:00.419] loss 0.008271 : 
+[22:47:00.419] epoch: 24 acc: 0.756000 acctrain: 1.000000 
+[22:47:02.125] loss 0.008815 : 
+[22:47:02.125] epoch: 25 acc: 0.755000 acctrain: 1.000000 
+[22:47:03.830] loss 0.053275 : 
+[22:47:03.830] epoch: 26 acc: 0.752000 acctrain: 1.000000 
+[22:47:05.537] loss 0.053843 : 
+[22:47:05.537] epoch: 27 acc: 0.753000 acctrain: 1.000000 
+[22:47:07.252] loss 0.050424 : 
+[22:47:07.252] epoch: 28 acc: 0.749000 acctrain: 1.000000 
+[22:47:08.975] loss 0.007756 : 
+[22:47:08.976] epoch: 29 acc: 0.748000 acctrain: 1.000000 
+[22:47:10.688] loss 0.005602 : 
+[22:47:10.688] epoch: 30 acc: 0.744000 acctrain: 1.000000 
+[22:47:12.391] loss 0.014772 : 
+[22:47:12.391] epoch: 31 acc: 0.745000 acctrain: 1.000000 
+[22:47:14.103] loss 0.001703 : 
+[22:47:14.104] epoch: 32 acc: 0.746000 acctrain: 1.000000 
+[22:47:15.812] loss 0.011855 : 
+[22:47:15.812] epoch: 33 acc: 0.745000 acctrain: 1.000000 
+[22:47:17.525] loss 0.045338 : 
+[22:47:17.525] epoch: 34 acc: 0.745000 acctrain: 1.000000 
+[22:47:19.233] loss 0.012343 : 
+[22:47:19.233] epoch: 35 acc: 0.747000 acctrain: 1.000000 
+[22:47:20.941] loss 0.002418 : 
+[22:47:20.941] epoch: 36 acc: 0.750000 acctrain: 1.000000 
+[22:47:22.664] loss 0.009250 : 
+[22:47:22.664] epoch: 37 acc: 0.750000 acctrain: 1.000000 
+[22:47:24.368] loss 0.038582 : 
+[22:47:24.368] epoch: 38 acc: 0.751000 acctrain: 1.000000 
+[22:47:26.077] loss 0.005696 : 
+[22:47:26.077] epoch: 39 acc: 0.759000 acctrain: 1.000000 
+[22:47:27.797] loss 0.004292 : 
+[22:47:27.797] epoch: 40 acc: 0.759000 acctrain: 1.000000 
+[22:47:29.505] loss 0.002095 : 
+[22:47:29.505] epoch: 41 acc: 0.764000 acctrain: 1.000000 
+[22:47:31.211] loss 0.014850 : 
+[22:47:31.212] epoch: 42 acc: 0.762000 acctrain: 1.000000 
+[22:47:32.925] loss 0.008426 : 
+[22:47:32.925] epoch: 43 acc: 0.764000 acctrain: 1.000000 
+[22:47:34.642] loss 0.003439 : 
+[22:47:34.642] epoch: 44 acc: 0.765000 acctrain: 1.000000 
+[22:47:36.367] loss 0.010218 : 
+[22:47:36.367] epoch: 45 acc: 0.764000 acctrain: 1.000000 
+[22:47:38.077] loss 0.000936 : 
+[22:47:38.077] epoch: 46 acc: 0.768000 acctrain: 1.000000 
+[22:47:39.789] loss 0.002811 : 
+[22:47:39.789] epoch: 47 acc: 0.770000 acctrain: 1.000000 
+[22:47:41.512] loss 0.007756 : 
+[22:47:41.512] epoch: 48 acc: 0.772000 acctrain: 1.000000 
+[22:47:43.220] loss 0.006923 : 
+[22:47:43.220] epoch: 49 acc: 0.771000 acctrain: 1.000000 
+[22:47:44.937] loss 0.011206 : 
+[22:47:44.937] epoch: 50 acc: 0.771000 acctrain: 1.000000 
+[22:47:46.645] loss 0.002635 : 
+[22:47:46.645] epoch: 51 acc: 0.773000 acctrain: 1.000000 
+[22:47:48.349] loss 0.007645 : 
+[22:47:48.350] epoch: 52 acc: 0.774000 acctrain: 1.000000 
+[22:47:50.061] loss 0.001359 : 
+[22:47:50.061] epoch: 53 acc: 0.777000 acctrain: 1.000000 
+[22:47:51.769] loss 0.011293 : 
+[22:47:51.769] epoch: 54 acc: 0.779000 acctrain: 1.000000 
+[22:47:53.479] loss 0.002818 : 
+[22:47:53.479] epoch: 55 acc: 0.779000 acctrain: 1.000000 
+[22:47:55.183] loss 0.000358 : 
+[22:47:55.184] epoch: 56 acc: 0.780000 acctrain: 1.000000 
+[22:47:56.897] loss 0.001215 : 
+[22:47:56.897] epoch: 57 acc: 0.779000 acctrain: 1.000000 
+[22:47:58.605] loss 0.025083 : 
+[22:47:58.605] epoch: 58 acc: 0.779000 acctrain: 1.000000 
+[22:48:00.325] loss 0.000320 : 
+[22:48:00.326] epoch: 59 acc: 0.779000 acctrain: 1.000000 
+[22:48:02.039] loss 0.002508 : 
+[22:48:02.039] epoch: 60 acc: 0.777000 acctrain: 1.000000 
+[22:48:03.768] loss 0.003024 : 
+[22:48:03.769] epoch: 61 acc: 0.777000 acctrain: 1.000000 
+[22:48:05.486] loss 0.002068 : 
+[22:48:05.487] epoch: 62 acc: 0.777000 acctrain: 1.000000 
+[22:48:07.203] loss 0.000266 : 
+[22:48:07.204] epoch: 63 acc: 0.777000 acctrain: 1.000000 
+[22:48:08.915] loss 0.005171 : 
+[22:48:08.915] epoch: 64 acc: 0.777000 acctrain: 1.000000 
+[22:48:10.621] loss 0.002212 : 
+[22:48:10.621] epoch: 65 acc: 0.777000 acctrain: 1.000000 
+[22:48:12.327] loss 0.000479 : 
+[22:48:12.327] epoch: 66 acc: 0.777000 acctrain: 1.000000 
+[22:48:14.034] loss 0.000862 : 
+[22:48:14.034] epoch: 67 acc: 0.777000 acctrain: 1.000000 
+[22:48:15.748] loss 0.002310 : 
+[22:48:15.748] epoch: 68 acc: 0.777000 acctrain: 1.000000 
+[22:48:17.456] loss 0.012256 : 
+[22:48:17.456] epoch: 69 acc: 0.777000 acctrain: 1.000000 
+[22:48:19.166] loss 0.000870 : 
+[22:48:19.166] epoch: 70 acc: 0.777000 acctrain: 1.000000 
+[22:48:20.881] loss 0.000648 : 
+[22:48:20.882] epoch: 71 acc: 0.777000 acctrain: 1.000000 
+[22:48:22.589] loss 0.006063 : 
+[22:48:22.590] epoch: 72 acc: 0.778000 acctrain: 1.000000 
+[22:48:24.297] loss 0.009076 : 
+[22:48:24.297] epoch: 73 acc: 0.778000 acctrain: 1.000000 
+[22:48:26.011] loss 0.000630 : 
+[22:48:26.011] epoch: 74 acc: 0.778000 acctrain: 1.000000 
+[22:48:27.721] loss 0.001382 : 
+[22:48:27.721] epoch: 75 acc: 0.777000 acctrain: 1.000000 
+[22:48:29.437] loss 0.001635 : 
+[22:48:29.437] epoch: 76 acc: 0.777000 acctrain: 1.000000 
+[22:48:31.154] loss 0.000430 : 
+[22:48:31.154] epoch: 77 acc: 0.777000 acctrain: 1.000000 
+[22:48:32.870] loss 0.003252 : 
+[22:48:32.870] epoch: 78 acc: 0.777000 acctrain: 1.000000 
+[22:48:34.578] loss 0.000310 : 
+[22:48:34.579] epoch: 79 acc: 0.777000 acctrain: 1.000000 
+[22:48:36.293] loss 0.004886 : 
+[22:48:36.294] epoch: 80 acc: 0.777000 acctrain: 1.000000 
+[22:48:38.016] loss 0.009139 : 
+[22:48:38.016] epoch: 81 acc: 0.777000 acctrain: 1.000000 
+[22:48:39.729] loss 0.000736 : 
+[22:48:39.729] epoch: 82 acc: 0.776000 acctrain: 1.000000 
+[22:48:41.438] loss 0.001484 : 
+[22:48:41.438] epoch: 83 acc: 0.775000 acctrain: 1.000000 
+[22:48:43.145] loss 0.003004 : 
+[22:48:43.145] epoch: 84 acc: 0.775000 acctrain: 1.000000 
+[22:48:44.864] loss 0.043405 : 
+[22:48:44.864] epoch: 85 acc: 0.775000 acctrain: 1.000000 
+[22:48:46.574] loss 0.002993 : 
+[22:48:46.574] epoch: 86 acc: 0.776000 acctrain: 1.000000 
+[22:48:48.275] loss 0.003400 : 
+[22:48:48.275] epoch: 87 acc: 0.776000 acctrain: 1.000000 
+[22:48:49.978] loss 0.001521 : 
+[22:48:49.978] epoch: 88 acc: 0.776000 acctrain: 1.000000 
+[22:48:51.687] loss 0.001604 : 
+[22:48:51.688] epoch: 89 acc: 0.776000 acctrain: 1.000000 
+[22:48:53.386] loss 0.000955 : 
+[22:48:53.386] epoch: 90 acc: 0.776000 acctrain: 1.000000 
+[22:48:55.097] loss 0.001040 : 
+[22:48:55.097] epoch: 91 acc: 0.776000 acctrain: 1.000000 
+[22:48:56.817] loss 0.002732 : 
+[22:48:56.817] epoch: 92 acc: 0.776000 acctrain: 1.000000 
+[22:48:58.525] loss 0.000135 : 
+[22:48:58.526] epoch: 93 acc: 0.777000 acctrain: 1.000000 
+[22:49:00.236] loss 0.011754 : 
+[22:49:00.236] epoch: 94 acc: 0.777000 acctrain: 1.000000 
+[22:49:01.945] loss 0.004206 : 
+[22:49:01.945] epoch: 95 acc: 0.777000 acctrain: 1.000000 
+[22:49:03.657] loss 0.002946 : 
+[22:49:03.657] epoch: 96 acc: 0.776000 acctrain: 1.000000 
+[22:49:05.369] loss 0.000633 : 
+[22:49:05.369] epoch: 97 acc: 0.776000 acctrain: 1.000000 
+[22:49:07.081] loss 0.009021 : 
+[22:49:07.081] epoch: 98 acc: 0.776000 acctrain: 1.000000 
+[22:49:08.801] loss 0.020113 : 
+[22:49:08.801] epoch: 99 acc: 0.777000 acctrain: 1.000000 
+[22:49:10.512] loss 0.000860 : 
+[22:49:10.513] epoch: 100 acc: 0.777000 acctrain: 1.000000 
+[22:49:12.226] loss 0.000567 : 
+[22:49:12.226] epoch: 101 acc: 0.777000 acctrain: 1.000000 
+[22:49:13.933] loss 0.001300 : 
+[22:49:13.933] epoch: 102 acc: 0.777000 acctrain: 1.000000 
+[22:49:15.645] loss 0.001423 : 
+[22:49:15.646] epoch: 103 acc: 0.777000 acctrain: 1.000000 
+[22:49:17.363] loss 0.001648 : 
+[22:49:17.363] epoch: 104 acc: 0.777000 acctrain: 1.000000 
+[22:49:19.072] loss 0.001715 : 
+[22:49:19.073] epoch: 105 acc: 0.777000 acctrain: 1.000000 
+[22:49:20.775] loss 0.005522 : 
+[22:49:20.776] epoch: 106 acc: 0.777000 acctrain: 1.000000 
+[22:49:22.489] loss 0.004197 : 
+[22:49:22.490] epoch: 107 acc: 0.777000 acctrain: 1.000000 
+[22:49:24.211] loss 0.000092 : 
+[22:49:24.212] epoch: 108 acc: 0.777000 acctrain: 1.000000 
+[22:49:25.922] loss 0.004188 : 
+[22:49:25.922] epoch: 109 acc: 0.777000 acctrain: 1.000000 
+[22:49:27.635] loss 0.002406 : 
+[22:49:27.635] epoch: 110 acc: 0.777000 acctrain: 1.000000 
+[22:49:29.348] loss 0.014293 : 
+[22:49:29.348] epoch: 111 acc: 0.777000 acctrain: 1.000000 
+[22:49:31.065] loss 0.001642 : 
+[22:49:31.065] epoch: 112 acc: 0.777000 acctrain: 1.000000 
+[22:49:32.781] loss 0.000838 : 
+[22:49:32.782] epoch: 113 acc: 0.776000 acctrain: 1.000000 
+[22:49:34.492] loss 0.003127 : 
+[22:49:34.492] epoch: 114 acc: 0.775000 acctrain: 1.000000 
+[22:49:36.199] loss 0.000345 : 
+[22:49:36.199] epoch: 115 acc: 0.775000 acctrain: 1.000000 
+[22:49:37.902] loss 0.000613 : 
+[22:49:37.902] epoch: 116 acc: 0.775000 acctrain: 1.000000 
+[22:49:39.605] loss 0.000738 : 
+[22:49:39.605] epoch: 117 acc: 0.775000 acctrain: 1.000000 
+[22:49:41.316] loss 0.026397 : 
+[22:49:41.317] epoch: 118 acc: 0.775000 acctrain: 1.000000 
+[22:49:43.029] loss 0.003090 : 
+[22:49:43.029] epoch: 119 acc: 0.775000 acctrain: 1.000000 
+[22:49:44.740] loss 0.000856 : 
+[22:49:44.740] epoch: 120 acc: 0.774000 acctrain: 1.000000 
+[22:49:46.449] loss 0.000171 : 
+[22:49:46.449] epoch: 121 acc: 0.774000 acctrain: 1.000000 
+[22:49:48.162] loss 0.007319 : 
+[22:49:48.162] epoch: 122 acc: 0.773000 acctrain: 1.000000 
+[22:49:49.877] loss 0.000414 : 
+[22:49:49.877] epoch: 123 acc: 0.773000 acctrain: 1.000000 
+[22:49:51.597] loss 0.004147 : 
+[22:49:51.598] epoch: 124 acc: 0.772000 acctrain: 1.000000 
+[22:49:53.321] loss 0.000088 : 
+[22:49:53.322] epoch: 125 acc: 0.772000 acctrain: 1.000000 
+[22:49:55.032] loss 0.000575 : 
+[22:49:55.032] epoch: 126 acc: 0.772000 acctrain: 1.000000 
+[22:49:56.748] loss 0.000431 : 
+[22:49:56.748] epoch: 127 acc: 0.772000 acctrain: 1.000000 
+[22:49:58.468] loss 0.001264 : 
+[22:49:58.468] epoch: 128 acc: 0.772000 acctrain: 1.000000 
+[22:50:00.177] loss 0.031363 : 
+[22:50:00.178] epoch: 129 acc: 0.772000 acctrain: 1.000000 
+[22:50:01.895] loss 0.003372 : 
+[22:50:01.895] epoch: 130 acc: 0.772000 acctrain: 1.000000 
+[22:50:03.607] loss 0.013620 : 
+[22:50:03.607] epoch: 131 acc: 0.771000 acctrain: 1.000000 
+[22:50:05.321] loss 0.006318 : 
+[22:50:05.321] epoch: 132 acc: 0.771000 acctrain: 1.000000 
+[22:50:07.037] loss 0.002689 : 
+[22:50:07.038] epoch: 133 acc: 0.771000 acctrain: 1.000000 
+[22:50:08.749] loss 0.004331 : 
+[22:50:08.749] epoch: 134 acc: 0.770000 acctrain: 1.000000 
+[22:50:10.465] loss 0.010130 : 
+[22:50:10.465] epoch: 135 acc: 0.770000 acctrain: 1.000000 
+[22:50:12.180] loss 0.008540 : 
+[22:50:12.180] epoch: 136 acc: 0.770000 acctrain: 1.000000 
+[22:50:13.886] loss 0.017331 : 
+[22:50:13.886] epoch: 137 acc: 0.770000 acctrain: 1.000000 
+[22:50:15.594] loss 0.001200 : 
+[22:50:15.594] epoch: 138 acc: 0.770000 acctrain: 1.000000 
+[22:50:17.307] loss 0.000673 : 
+[22:50:17.307] epoch: 139 acc: 0.770000 acctrain: 1.000000 
+[22:50:19.012] loss 0.000380 : 
+[22:50:19.012] epoch: 140 acc: 0.770000 acctrain: 1.000000 
+[22:50:20.724] loss 0.003625 : 
+[22:50:20.724] epoch: 141 acc: 0.770000 acctrain: 1.000000 
+[22:50:22.435] loss 0.000505 : 
+[22:50:22.435] epoch: 142 acc: 0.770000 acctrain: 1.000000 
+[22:50:24.150] loss 0.000207 : 
+[22:50:24.150] epoch: 143 acc: 0.770000 acctrain: 1.000000 
+[22:50:25.870] loss 0.001269 : 
+[22:50:25.870] epoch: 144 acc: 0.770000 acctrain: 1.000000 
+[22:50:27.580] loss 0.010831 : 
+[22:50:27.580] epoch: 145 acc: 0.770000 acctrain: 1.000000 
+[22:50:29.285] loss 0.001480 : 
+[22:50:29.285] epoch: 146 acc: 0.770000 acctrain: 1.000000 
+[22:50:30.994] loss 0.003285 : 
+[22:50:30.994] epoch: 147 acc: 0.770000 acctrain: 1.000000 
+[22:50:32.703] loss 0.005673 : 
+[22:50:32.703] epoch: 148 acc: 0.770000 acctrain: 1.000000 
+[22:50:34.415] loss 0.037816 : 
+[22:50:34.415] epoch: 149 acc: 0.770000 acctrain: 1.000000 
+[22:50:36.128] loss 0.000517 : 
+[22:50:36.128] epoch: 150 acc: 0.770000 acctrain: 1.000000 
+[22:50:37.843] loss 0.003166 : 
+[22:50:37.843] epoch: 151 acc: 0.770000 acctrain: 1.000000 
+[22:50:39.551] loss 0.001890 : 
+[22:50:39.551] epoch: 152 acc: 0.770000 acctrain: 1.000000 
+[22:50:41.255] loss 0.000111 : 
+[22:50:41.256] epoch: 153 acc: 0.770000 acctrain: 1.000000 
+[22:50:42.970] loss 0.002400 : 
+[22:50:42.970] epoch: 154 acc: 0.769000 acctrain: 1.000000 
+[22:50:44.678] loss 0.002134 : 
+[22:50:44.678] epoch: 155 acc: 0.769000 acctrain: 1.000000 
+[22:50:46.392] loss 0.005320 : 
+[22:50:46.392] epoch: 156 acc: 0.769000 acctrain: 1.000000 
+[22:50:48.101] loss 0.001287 : 
+[22:50:48.102] epoch: 157 acc: 0.769000 acctrain: 1.000000 
+[22:50:49.817] loss 0.000677 : 
+[22:50:49.817] epoch: 158 acc: 0.769000 acctrain: 1.000000 
+[22:50:51.532] loss 0.000755 : 
+[22:50:51.532] epoch: 159 acc: 0.769000 acctrain: 1.000000 
+[22:50:53.248] loss 0.004009 : 
+[22:50:53.248] epoch: 160 acc: 0.769000 acctrain: 1.000000 
+[22:50:54.960] loss 0.001545 : 
+[22:50:54.960] epoch: 161 acc: 0.769000 acctrain: 1.000000 
+[22:50:56.671] loss 0.000194 : 
+[22:50:56.672] epoch: 162 acc: 0.770000 acctrain: 1.000000 
+[22:50:58.381] loss 0.003199 : 
+[22:50:58.381] epoch: 163 acc: 0.770000 acctrain: 1.000000 
+[22:51:00.100] loss 0.000406 : 
+[22:51:00.100] epoch: 164 acc: 0.770000 acctrain: 1.000000 
+[22:51:01.813] loss 0.001142 : 
+[22:51:01.813] epoch: 165 acc: 0.770000 acctrain: 1.000000 
+[22:51:03.530] loss 0.005746 : 
+[22:51:03.530] epoch: 166 acc: 0.770000 acctrain: 1.000000 
+[22:51:05.240] loss 0.000388 : 
+[22:51:05.240] epoch: 167 acc: 0.770000 acctrain: 1.000000 
+[22:51:06.962] loss 0.000263 : 
+[22:51:06.962] epoch: 168 acc: 0.770000 acctrain: 1.000000 
+[22:51:08.673] loss 0.016998 : 
+[22:51:08.673] epoch: 169 acc: 0.770000 acctrain: 1.000000 
+[22:51:10.377] loss 0.000816 : 
+[22:51:10.377] epoch: 170 acc: 0.770000 acctrain: 1.000000 
+[22:51:12.089] loss 0.001289 : 
+[22:51:12.089] epoch: 171 acc: 0.770000 acctrain: 1.000000 
+[22:51:13.807] loss 0.001375 : 
+[22:51:13.807] epoch: 172 acc: 0.770000 acctrain: 1.000000 
+[22:51:15.522] loss 0.000401 : 
+[22:51:15.522] epoch: 173 acc: 0.770000 acctrain: 1.000000 
+[22:51:17.231] loss 0.000085 : 
+[22:51:17.231] epoch: 174 acc: 0.770000 acctrain: 1.000000 
+[22:51:18.939] loss 0.027200 : 
+[22:51:18.939] epoch: 175 acc: 0.770000 acctrain: 1.000000 
+[22:51:20.653] loss 0.001006 : 
+[22:51:20.653] epoch: 176 acc: 0.770000 acctrain: 1.000000 
+[22:51:22.359] loss 0.004886 : 
+[22:51:22.360] epoch: 177 acc: 0.770000 acctrain: 1.000000 
+[22:51:24.082] loss 0.002552 : 
+[22:51:24.083] epoch: 178 acc: 0.770000 acctrain: 1.000000 
+[22:51:25.790] loss 0.006628 : 
+[22:51:25.791] epoch: 179 acc: 0.769000 acctrain: 1.000000 
+[22:51:27.496] loss 0.001320 : 
+[22:51:27.496] epoch: 180 acc: 0.769000 acctrain: 1.000000 
+[22:51:29.217] loss 0.000845 : 
+[22:51:29.217] epoch: 181 acc: 0.769000 acctrain: 1.000000 
+[22:51:30.930] loss 0.001119 : 
+[22:51:30.930] epoch: 182 acc: 0.769000 acctrain: 1.000000 
+[22:51:32.643] loss 0.000709 : 
+[22:51:32.643] epoch: 183 acc: 0.769000 acctrain: 1.000000 
+[22:51:34.350] loss 0.001924 : 
+[22:51:34.350] epoch: 184 acc: 0.769000 acctrain: 1.000000 
+[22:51:36.053] loss 0.004942 : 
+[22:51:36.053] epoch: 185 acc: 0.769000 acctrain: 1.000000 
+[22:51:37.767] loss 0.007898 : 
+[22:51:37.767] epoch: 186 acc: 0.769000 acctrain: 1.000000 
+[22:51:39.494] loss 0.001092 : 
+[22:51:39.494] epoch: 187 acc: 0.769000 acctrain: 1.000000 
+[22:51:41.204] loss 0.000217 : 
+[22:51:41.205] epoch: 188 acc: 0.769000 acctrain: 1.000000 
+[22:51:42.921] loss 0.000931 : 
+[22:51:42.921] epoch: 189 acc: 0.769000 acctrain: 1.000000 
+[22:51:44.633] loss 0.004956 : 
+[22:51:44.633] epoch: 190 acc: 0.769000 acctrain: 1.000000 
+[22:51:46.347] loss 0.000489 : 
+[22:51:46.348] epoch: 191 acc: 0.770000 acctrain: 1.000000 
+[22:51:48.066] loss 0.001974 : 
+[22:51:48.067] epoch: 192 acc: 0.770000 acctrain: 1.000000 
+[22:51:49.775] loss 0.000106 : 
+[22:51:49.775] epoch: 193 acc: 0.770000 acctrain: 1.000000 
+[22:51:51.482] loss 0.000468 : 
+[22:51:51.482] epoch: 194 acc: 0.770000 acctrain: 1.000000 
+[22:51:53.193] loss 0.000263 : 
+[22:51:53.194] epoch: 195 acc: 0.770000 acctrain: 1.000000 
+[22:51:54.899] loss 0.002623 : 
+[22:51:54.899] epoch: 196 acc: 0.770000 acctrain: 1.000000 
+[22:51:56.609] loss 0.002384 : 
+[22:51:56.609] epoch: 197 acc: 0.770000 acctrain: 1.000000 
+[22:51:58.327] loss 0.004808 : 
+[22:51:58.327] epoch: 198 acc: 0.770000 acctrain: 1.000000 
+[22:52:00.041] loss 0.001696 : 
+[22:52:00.041] epoch: 199 acc: 0.770000 acctrain: 1.000000 
+[00:21:55.057] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[00:23:40.075] loss 1.946837 : 
+[00:23:40.075] epoch: 0 acc: 0.064000 acctrain: 0.142857 
+[00:23:41.640] loss 1.774917 : 
+[00:23:41.641] epoch: 1 acc: 0.481000 acctrain: 0.842857 
+[00:23:43.323] loss 1.362051 : 
+[00:23:43.324] epoch: 2 acc: 0.573000 acctrain: 0.985714 
+[00:23:45.000] loss 0.847217 : 
+[00:23:45.000] epoch: 3 acc: 0.676000 acctrain: 1.000000 
+[00:23:46.696] loss 0.492153 : 
+[00:23:46.696] epoch: 4 acc: 0.717000 acctrain: 1.000000 
+[00:23:48.413] loss 0.200406 : 
+[00:23:48.413] epoch: 5 acc: 0.754000 acctrain: 1.000000 
+[00:23:50.133] loss 0.087601 : 
+[00:23:50.133] epoch: 6 acc: 0.754000 acctrain: 1.000000 
+[00:23:51.840] loss 0.050395 : 
+[00:23:51.840] epoch: 7 acc: 0.742000 acctrain: 1.000000 
+[00:23:53.555] loss 0.019421 : 
+[00:23:53.555] epoch: 8 acc: 0.747000 acctrain: 1.000000 
+[00:23:55.283] loss 0.008807 : 
+[00:23:55.283] epoch: 9 acc: 0.738000 acctrain: 1.000000 
+[00:23:56.990] loss 0.004843 : 
+[00:23:56.991] epoch: 10 acc: 0.733000 acctrain: 1.000000 
+[00:23:58.712] loss 0.025197 : 
+[00:23:58.712] epoch: 11 acc: 0.732000 acctrain: 1.000000 
+[00:24:00.432] loss 0.004271 : 
+[00:24:00.432] epoch: 12 acc: 0.737000 acctrain: 1.000000 
+[00:24:02.147] loss 0.000612 : 
+[00:24:02.147] epoch: 13 acc: 0.737000 acctrain: 1.000000 
+[00:24:03.853] loss 0.000856 : 
+[00:24:03.853] epoch: 14 acc: 0.738000 acctrain: 1.000000 
+[00:24:05.564] loss 0.000704 : 
+[00:24:05.565] epoch: 15 acc: 0.738000 acctrain: 1.000000 
+[00:24:07.277] loss 0.000648 : 
+[00:24:07.277] epoch: 16 acc: 0.737000 acctrain: 1.000000 
+[00:24:09.003] loss 0.000401 : 
+[00:24:09.004] epoch: 17 acc: 0.739000 acctrain: 1.000000 
+[00:24:10.716] loss 0.006938 : 
+[00:24:10.717] epoch: 18 acc: 0.739000 acctrain: 1.000000 
+[00:24:12.426] loss 0.001071 : 
+[00:24:12.426] epoch: 19 acc: 0.740000 acctrain: 1.000000 
+[00:24:14.135] loss 0.000164 : 
+[00:24:14.135] epoch: 20 acc: 0.745000 acctrain: 1.000000 
+[00:24:15.852] loss 0.004658 : 
+[00:24:15.852] epoch: 21 acc: 0.745000 acctrain: 1.000000 
+[00:24:17.556] loss 0.000402 : 
+[00:24:17.556] epoch: 22 acc: 0.743000 acctrain: 1.000000 
+[00:24:19.263] loss 0.000065 : 
+[00:24:19.263] epoch: 23 acc: 0.734000 acctrain: 1.000000 
+[00:24:20.970] loss 0.000025 : 
+[00:24:20.970] epoch: 24 acc: 0.732000 acctrain: 1.000000 
+[00:24:22.678] loss 0.000011 : 
+[00:24:22.678] epoch: 25 acc: 0.732000 acctrain: 1.000000 
+[00:24:24.389] loss 0.000017 : 
+[00:24:24.389] epoch: 26 acc: 0.732000 acctrain: 1.000000 
+[00:24:26.123] loss 0.000021 : 
+[00:24:26.123] epoch: 27 acc: 0.733000 acctrain: 1.000000 
+[00:24:27.832] loss 0.000013 : 
+[00:24:27.833] epoch: 28 acc: 0.733000 acctrain: 1.000000 
+[00:24:29.544] loss 0.000075 : 
+[00:24:29.544] epoch: 29 acc: 0.732000 acctrain: 1.000000 
+[00:24:31.242] loss 0.000026 : 
+[00:24:31.242] epoch: 30 acc: 0.730000 acctrain: 1.000000 
+[00:24:32.946] loss 0.000031 : 
+[00:24:32.946] epoch: 31 acc: 0.728000 acctrain: 1.000000 
+[00:24:34.661] loss 0.000129 : 
+[00:24:34.661] epoch: 32 acc: 0.727000 acctrain: 1.000000 
+[00:24:36.368] loss 0.000162 : 
+[00:24:36.369] epoch: 33 acc: 0.726000 acctrain: 1.000000 
+[00:24:38.082] loss 0.000999 : 
+[00:24:38.082] epoch: 34 acc: 0.724000 acctrain: 1.000000 
+[00:24:39.789] loss 0.000051 : 
+[00:24:39.790] epoch: 35 acc: 0.724000 acctrain: 1.000000 
+[00:24:41.597] loss 0.000537 : 
+[00:24:41.597] epoch: 36 acc: 0.724000 acctrain: 1.000000 
+[00:24:43.311] loss 0.000030 : 
+[00:24:43.311] epoch: 37 acc: 0.722000 acctrain: 1.000000 
+[00:24:45.026] loss 0.000036 : 
+[00:24:45.026] epoch: 38 acc: 0.723000 acctrain: 1.000000 
+[00:24:46.734] loss 0.004380 : 
+[00:24:46.734] epoch: 39 acc: 0.723000 acctrain: 1.000000 
+[00:24:54.368] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[00:41:21.547] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[00:43:01.813] loss 1.946049 : 
+[00:43:01.855] epoch: 0 acc: 0.091000 acctrain: 0.142857 
+[00:43:05.167] loss 1.119646 : 
+[00:43:05.168] epoch: 1 acc: 0.474000 acctrain: 0.771429 
+[00:43:08.707] loss 5.975487 : 
+[00:43:08.707] epoch: 2 acc: 0.432000 acctrain: 0.564286 
+[00:43:12.250] loss 1.454091 : 
+[00:43:12.251] epoch: 3 acc: 0.692000 acctrain: 0.792857 
+[00:43:15.791] loss 1.373887 : 
+[00:43:15.792] epoch: 4 acc: 0.415000 acctrain: 0.735714 
+[00:43:19.331] loss 1.168792 : 
+[00:43:19.331] epoch: 5 acc: 0.443000 acctrain: 0.800000 
+[00:43:22.864] loss 0.184251 : 
+[00:43:22.864] epoch: 6 acc: 0.623000 acctrain: 0.971429 
+[00:43:26.394] loss 0.187986 : 
+[00:43:26.394] epoch: 7 acc: 0.691000 acctrain: 0.978571 
+[00:43:29.928] loss 0.380193 : 
+[00:43:29.928] epoch: 8 acc: 0.735000 acctrain: 0.928571 
+[00:43:33.461] loss 0.091011 : 
+[00:43:33.461] epoch: 9 acc: 0.775000 acctrain: 0.985714 
+[00:43:36.996] loss 0.063824 : 
+[00:43:36.996] epoch: 10 acc: 0.771000 acctrain: 0.992857 
+[00:43:40.535] loss 0.054864 : 
+[00:43:40.535] epoch: 11 acc: 0.746000 acctrain: 0.985714 
+[00:43:44.071] loss 0.030022 : 
+[00:43:44.071] epoch: 12 acc: 0.689000 acctrain: 0.985714 
+[00:43:47.609] loss 0.097130 : 
+[00:43:47.609] epoch: 13 acc: 0.653000 acctrain: 0.985714 
+[00:43:51.145] loss 0.133332 : 
+[00:43:51.145] epoch: 14 acc: 0.673000 acctrain: 0.992857 
+[00:43:54.678] loss 0.005220 : 
+[00:43:54.679] epoch: 15 acc: 0.734000 acctrain: 1.000000 
+[00:43:58.211] loss 0.111522 : 
+[00:43:58.211] epoch: 16 acc: 0.749000 acctrain: 1.000000 
+[00:44:01.743] loss 0.012000 : 
+[00:44:01.743] epoch: 17 acc: 0.772000 acctrain: 1.000000 
+[00:44:05.277] loss 0.052545 : 
+[00:44:05.277] epoch: 18 acc: 0.785000 acctrain: 1.000000 
+[00:44:08.814] loss 0.011153 : 
+[00:44:08.814] epoch: 19 acc: 0.783000 acctrain: 1.000000 
+[00:44:12.348] loss 0.004008 : 
+[00:44:12.349] epoch: 20 acc: 0.783000 acctrain: 1.000000 
+[00:44:15.884] loss 0.000569 : 
+[00:44:15.884] epoch: 21 acc: 0.785000 acctrain: 1.000000 
+[00:44:19.415] loss 0.003481 : 
+[00:44:19.415] epoch: 22 acc: 0.787000 acctrain: 1.000000 
+[00:44:22.946] loss 0.034053 : 
+[00:44:22.947] epoch: 23 acc: 0.786000 acctrain: 1.000000 
+[00:44:26.481] loss 0.027835 : 
+[00:44:26.481] epoch: 24 acc: 0.786000 acctrain: 1.000000 
+[00:44:30.014] loss 0.012953 : 
+[00:44:30.015] epoch: 25 acc: 0.786000 acctrain: 1.000000 
+[00:44:33.551] loss 0.008587 : 
+[00:44:33.551] epoch: 26 acc: 0.789000 acctrain: 1.000000 
+[00:44:37.087] loss 0.004775 : 
+[00:44:37.087] epoch: 27 acc: 0.792000 acctrain: 1.000000 
+[00:44:40.625] loss 0.015490 : 
+[00:44:40.625] epoch: 28 acc: 0.791000 acctrain: 1.000000 
+[00:44:44.161] loss 0.013366 : 
+[00:44:44.161] epoch: 29 acc: 0.794000 acctrain: 1.000000 
+[00:44:47.699] loss 0.001257 : 
+[00:44:47.699] epoch: 30 acc: 0.794000 acctrain: 1.000000 
+[00:44:51.230] loss 0.002119 : 
+[00:44:51.230] epoch: 31 acc: 0.795000 acctrain: 1.000000 
+[00:44:54.763] loss 0.009443 : 
+[00:44:54.763] epoch: 32 acc: 0.795000 acctrain: 1.000000 
+[00:44:58.295] loss 0.000928 : 
+[00:44:58.296] epoch: 33 acc: 0.794000 acctrain: 1.000000 
+[00:45:01.830] loss 0.001211 : 
+[00:45:01.830] epoch: 34 acc: 0.795000 acctrain: 1.000000 
+[00:45:05.365] loss 0.000203 : 
+[00:45:05.366] epoch: 35 acc: 0.791000 acctrain: 1.000000 
+[00:45:08.899] loss 0.000918 : 
+[00:45:08.900] epoch: 36 acc: 0.791000 acctrain: 1.000000 
+[00:45:12.432] loss 0.000088 : 
+[00:45:12.432] epoch: 37 acc: 0.789000 acctrain: 1.000000 
+[00:45:15.965] loss 0.003963 : 
+[00:45:15.965] epoch: 38 acc: 0.787000 acctrain: 1.000000 
+[00:45:19.498] loss 0.003123 : 
+[00:45:19.498] epoch: 39 acc: 0.788000 acctrain: 1.000000 
+[00:45:23.032] loss 0.017829 : 
+[00:45:23.032] epoch: 40 acc: 0.788000 acctrain: 1.000000 
+[00:45:26.565] loss 0.000720 : 
+[00:45:26.566] epoch: 41 acc: 0.788000 acctrain: 1.000000 
+[00:45:30.104] loss 0.003144 : 
+[00:45:30.104] epoch: 42 acc: 0.788000 acctrain: 1.000000 
+[00:46:26.571] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[00:48:06.709] loss 1.945724 : 
+[00:48:06.709] epoch: 0 acc: 0.319000 acctrain: 0.142857 
+[00:48:08.285] loss 2.076368 : 
+[00:48:08.285] epoch: 1 acc: 0.146000 acctrain: 0.214286 
+[00:48:10.020] loss 2.344751 : 
+[00:48:10.020] epoch: 2 acc: 0.423000 acctrain: 0.371429 
+[00:48:11.751] loss 1.401274 : 
+[00:48:11.751] epoch: 3 acc: 0.428000 acctrain: 0.628571 
+[00:48:13.499] loss 0.964375 : 
+[00:48:13.500] epoch: 4 acc: 0.554000 acctrain: 0.821429 
+[00:48:15.274] loss 0.941379 : 
+[00:48:15.274] epoch: 5 acc: 0.551000 acctrain: 0.864286 
+[00:48:17.039] loss 0.564000 : 
+[00:48:17.039] epoch: 6 acc: 0.715000 acctrain: 0.950000 
+[00:48:18.817] loss 0.474973 : 
+[00:48:18.817] epoch: 7 acc: 0.751000 acctrain: 0.985714 
+[00:48:20.584] loss 0.394098 : 
+[00:48:20.584] epoch: 8 acc: 0.777000 acctrain: 0.992857 
+[00:48:22.353] loss 0.276455 : 
+[00:48:22.354] epoch: 9 acc: 0.764000 acctrain: 0.985714 
+[00:48:24.123] loss 0.260024 : 
+[00:48:24.123] epoch: 10 acc: 0.734000 acctrain: 0.971429 
+[00:48:25.896] loss 0.277647 : 
+[00:48:25.896] epoch: 11 acc: 0.717000 acctrain: 0.971429 
+[00:48:27.671] loss 0.271460 : 
+[00:48:27.671] epoch: 12 acc: 0.718000 acctrain: 0.978571 
+[00:48:29.449] loss 0.209298 : 
+[00:48:29.450] epoch: 13 acc: 0.736000 acctrain: 1.000000 
+[00:48:31.221] loss 0.197100 : 
+[00:48:31.221] epoch: 14 acc: 0.745000 acctrain: 1.000000 
+[00:48:32.976] loss 0.234044 : 
+[00:48:32.976] epoch: 15 acc: 0.775000 acctrain: 1.000000 
+[00:48:34.741] loss 0.163606 : 
+[00:48:34.741] epoch: 16 acc: 0.774000 acctrain: 1.000000 
+[00:48:36.501] loss 0.256480 : 
+[00:48:36.501] epoch: 17 acc: 0.772000 acctrain: 1.000000 
+[00:48:38.262] loss 0.084334 : 
+[00:48:38.262] epoch: 18 acc: 0.764000 acctrain: 1.000000 
+[00:48:40.022] loss 0.190758 : 
+[00:48:40.022] epoch: 19 acc: 0.742000 acctrain: 1.000000 
+[00:48:41.782] loss 0.542692 : 
+[00:48:41.782] epoch: 20 acc: 0.732000 acctrain: 1.000000 
+[00:48:43.549] loss 0.175076 : 
+[00:48:43.549] epoch: 21 acc: 0.739000 acctrain: 1.000000 
+[00:48:45.307] loss 0.334013 : 
+[00:48:45.307] epoch: 22 acc: 0.742000 acctrain: 1.000000 
+[00:48:47.061] loss 0.156026 : 
+[00:48:47.061] epoch: 23 acc: 0.750000 acctrain: 1.000000 
+[00:48:48.823] loss 0.163136 : 
+[00:48:48.823] epoch: 24 acc: 0.761000 acctrain: 1.000000 
+[00:48:50.577] loss 0.246702 : 
+[00:48:50.577] epoch: 25 acc: 0.767000 acctrain: 1.000000 
+[00:48:52.336] loss 0.154524 : 
+[00:48:52.336] epoch: 26 acc: 0.769000 acctrain: 1.000000 
+[00:48:54.084] loss 0.094850 : 
+[00:48:54.085] epoch: 27 acc: 0.775000 acctrain: 1.000000 
+[00:48:55.856] loss 0.175724 : 
+[00:48:55.856] epoch: 28 acc: 0.776000 acctrain: 1.000000 
+[00:48:57.620] loss 0.118424 : 
+[00:48:57.620] epoch: 29 acc: 0.782000 acctrain: 1.000000 
+[00:48:59.366] loss 0.152320 : 
+[00:48:59.366] epoch: 30 acc: 0.784000 acctrain: 1.000000 
+[00:49:01.159] loss 0.115897 : 
+[00:49:01.159] epoch: 31 acc: 0.781000 acctrain: 1.000000 
+[00:49:02.927] loss 0.160810 : 
+[00:49:02.927] epoch: 32 acc: 0.780000 acctrain: 1.000000 
+[00:49:04.690] loss 0.079642 : 
+[00:49:04.690] epoch: 33 acc: 0.781000 acctrain: 1.000000 
+[00:49:06.439] loss 0.093499 : 
+[00:49:06.439] epoch: 34 acc: 0.778000 acctrain: 1.000000 
+[00:49:08.195] loss 0.119932 : 
+[00:49:08.226] epoch: 35 acc: 0.780000 acctrain: 1.000000 
+[00:49:09.984] loss 0.106150 : 
+[00:49:09.984] epoch: 36 acc: 0.781000 acctrain: 1.000000 
+[00:49:11.741] loss 0.167927 : 
+[00:49:11.741] epoch: 37 acc: 0.779000 acctrain: 1.000000 
+[00:49:13.482] loss 0.109069 : 
+[00:49:13.483] epoch: 38 acc: 0.775000 acctrain: 1.000000 
+[00:49:15.232] loss 0.238517 : 
+[00:49:15.232] epoch: 39 acc: 0.777000 acctrain: 1.000000 
+[00:49:16.994] loss 0.136908 : 
+[00:49:16.994] epoch: 40 acc: 0.783000 acctrain: 1.000000 
+[00:49:18.754] loss 0.112263 : 
+[00:49:18.754] epoch: 41 acc: 0.783000 acctrain: 1.000000 
+[00:49:20.509] loss 0.090450 : 
+[00:49:20.509] epoch: 42 acc: 0.783000 acctrain: 1.000000 
+[00:49:22.264] loss 0.117946 : 
+[00:49:22.264] epoch: 43 acc: 0.784000 acctrain: 1.000000 
+[00:49:24.031] loss 0.113846 : 
+[00:49:24.031] epoch: 44 acc: 0.783000 acctrain: 1.000000 
+[00:49:25.790] loss 0.306312 : 
+[00:49:25.790] epoch: 45 acc: 0.784000 acctrain: 1.000000 
+[00:49:27.550] loss 0.056148 : 
+[00:49:27.550] epoch: 46 acc: 0.783000 acctrain: 1.000000 
+[00:49:29.312] loss 0.025748 : 
+[00:49:29.313] epoch: 47 acc: 0.784000 acctrain: 1.000000 
+[00:49:31.076] loss 0.109728 : 
+[00:49:31.076] epoch: 48 acc: 0.784000 acctrain: 1.000000 
+[00:49:32.839] loss 0.041762 : 
+[00:49:32.840] epoch: 49 acc: 0.784000 acctrain: 1.000000 
+[00:49:34.596] loss 0.072926 : 
+[00:49:34.596] epoch: 50 acc: 0.784000 acctrain: 1.000000 
+[00:49:36.362] loss 0.174462 : 
+[00:49:36.362] epoch: 51 acc: 0.784000 acctrain: 1.000000 
+[00:49:38.121] loss 0.090640 : 
+[00:49:38.122] epoch: 52 acc: 0.785000 acctrain: 1.000000 
+[00:49:39.885] loss 0.050335 : 
+[00:49:39.885] epoch: 53 acc: 0.785000 acctrain: 1.000000 
+[00:49:41.645] loss 0.096000 : 
+[00:49:41.645] epoch: 54 acc: 0.788000 acctrain: 1.000000 
+[00:49:43.400] loss 0.116226 : 
+[00:49:43.400] epoch: 55 acc: 0.789000 acctrain: 1.000000 
+[00:49:45.161] loss 0.079495 : 
+[00:49:45.161] epoch: 56 acc: 0.789000 acctrain: 1.000000 
+[00:49:46.929] loss 0.113950 : 
+[00:49:46.929] epoch: 57 acc: 0.788000 acctrain: 1.000000 
+[00:49:48.692] loss 0.193174 : 
+[00:49:48.692] epoch: 58 acc: 0.787000 acctrain: 1.000000 
+[00:49:50.449] loss 0.038596 : 
+[00:49:50.449] epoch: 59 acc: 0.787000 acctrain: 1.000000 
+[00:49:52.211] loss 0.081043 : 
+[00:49:52.211] epoch: 60 acc: 0.787000 acctrain: 1.000000 
+[00:49:53.969] loss 0.060658 : 
+[00:49:53.969] epoch: 61 acc: 0.787000 acctrain: 1.000000 
+[00:49:55.723] loss 0.098510 : 
+[00:49:55.723] epoch: 62 acc: 0.787000 acctrain: 1.000000 
+[00:49:57.475] loss 0.070806 : 
+[00:49:57.475] epoch: 63 acc: 0.788000 acctrain: 1.000000 
+[00:49:59.240] loss 0.044075 : 
+[00:49:59.241] epoch: 64 acc: 0.788000 acctrain: 1.000000 
+[00:50:01.005] loss 0.118644 : 
+[00:50:01.006] epoch: 65 acc: 0.788000 acctrain: 1.000000 
+[00:50:02.764] loss 0.139016 : 
+[00:50:02.764] epoch: 66 acc: 0.789000 acctrain: 1.000000 
+[00:50:04.532] loss 0.047157 : 
+[00:50:04.532] epoch: 67 acc: 0.788000 acctrain: 1.000000 
+[00:50:06.286] loss 0.031908 : 
+[00:50:06.286] epoch: 68 acc: 0.788000 acctrain: 1.000000 
+[00:50:08.038] loss 0.056129 : 
+[00:50:08.038] epoch: 69 acc: 0.788000 acctrain: 1.000000 
+[00:50:09.796] loss 0.102809 : 
+[00:50:09.894] epoch: 70 acc: 0.788000 acctrain: 1.000000 
+[00:50:11.653] loss 0.057137 : 
+[00:50:11.653] epoch: 71 acc: 0.787000 acctrain: 1.000000 
+[00:50:13.413] loss 0.059838 : 
+[00:50:13.414] epoch: 72 acc: 0.787000 acctrain: 1.000000 
+[00:50:15.173] loss 0.089118 : 
+[00:50:15.173] epoch: 73 acc: 0.787000 acctrain: 1.000000 
+[00:50:16.934] loss 0.055218 : 
+[00:50:16.935] epoch: 74 acc: 0.787000 acctrain: 1.000000 
+[00:50:18.697] loss 0.145738 : 
+[00:50:18.698] epoch: 75 acc: 0.787000 acctrain: 1.000000 
+[00:50:20.534] loss 0.057904 : 
+[00:50:20.534] epoch: 76 acc: 0.787000 acctrain: 1.000000 
+[00:50:22.279] loss 0.083558 : 
+[00:50:22.279] epoch: 77 acc: 0.787000 acctrain: 1.000000 
+[00:50:24.033] loss 0.164820 : 
+[00:50:24.033] epoch: 78 acc: 0.786000 acctrain: 1.000000 
+[00:50:25.791] loss 0.010436 : 
+[00:50:25.791] epoch: 79 acc: 0.786000 acctrain: 1.000000 
+[00:50:27.548] loss 0.034947 : 
+[00:50:27.548] epoch: 80 acc: 0.786000 acctrain: 1.000000 
+[00:50:29.307] loss 0.058106 : 
+[00:50:29.307] epoch: 81 acc: 0.786000 acctrain: 1.000000 
+[00:50:31.064] loss 0.106319 : 
+[00:50:31.064] epoch: 82 acc: 0.786000 acctrain: 1.000000 
+[00:50:32.837] loss 0.239859 : 
+[00:50:32.837] epoch: 83 acc: 0.786000 acctrain: 1.000000 
+[00:50:34.599] loss 0.059110 : 
+[00:50:34.600] epoch: 84 acc: 0.786000 acctrain: 1.000000 
+[00:50:36.355] loss 0.078257 : 
+[00:50:36.355] epoch: 85 acc: 0.786000 acctrain: 1.000000 
+[00:50:38.120] loss 0.075630 : 
+[00:50:38.120] epoch: 86 acc: 0.786000 acctrain: 1.000000 
+[00:50:39.886] loss 0.054820 : 
+[00:50:39.887] epoch: 87 acc: 0.786000 acctrain: 1.000000 
+[00:50:41.641] loss 0.093888 : 
+[00:50:41.641] epoch: 88 acc: 0.786000 acctrain: 1.000000 
+[00:50:43.397] loss 0.056742 : 
+[00:50:43.397] epoch: 89 acc: 0.787000 acctrain: 1.000000 
+[00:50:45.165] loss 0.063694 : 
+[00:50:45.165] epoch: 90 acc: 0.787000 acctrain: 1.000000 
+[00:50:46.932] loss 0.050203 : 
+[00:50:46.932] epoch: 91 acc: 0.787000 acctrain: 1.000000 
+[00:50:48.689] loss 0.170862 : 
+[00:50:48.690] epoch: 92 acc: 0.787000 acctrain: 1.000000 
+[00:50:50.448] loss 0.112272 : 
+[00:50:50.448] epoch: 93 acc: 0.787000 acctrain: 1.000000 
+[00:50:52.212] loss 0.021683 : 
+[00:50:52.212] epoch: 94 acc: 0.788000 acctrain: 1.000000 
+[00:50:53.963] loss 0.107342 : 
+[00:50:53.963] epoch: 95 acc: 0.788000 acctrain: 1.000000 
+[00:50:55.721] loss 0.094285 : 
+[00:50:55.721] epoch: 96 acc: 0.788000 acctrain: 1.000000 
+[00:50:57.482] loss 0.104816 : 
+[00:50:57.482] epoch: 97 acc: 0.788000 acctrain: 1.000000 
+[00:50:59.242] loss 0.074157 : 
+[00:50:59.242] epoch: 98 acc: 0.788000 acctrain: 1.000000 
+[00:51:00.999] loss 0.136591 : 
+[00:51:00.999] epoch: 99 acc: 0.788000 acctrain: 1.000000 
+[00:51:02.764] loss 0.048914 : 
+[00:51:02.764] epoch: 100 acc: 0.788000 acctrain: 1.000000 
+[00:51:04.519] loss 0.044244 : 
+[00:51:04.519] epoch: 101 acc: 0.788000 acctrain: 1.000000 
+[00:51:06.272] loss 0.187372 : 
+[00:51:06.272] epoch: 102 acc: 0.788000 acctrain: 1.000000 
+[00:51:08.033] loss 0.084455 : 
+[00:51:08.033] epoch: 103 acc: 0.788000 acctrain: 1.000000 
+[00:51:09.789] loss 0.026749 : 
+[00:51:09.789] epoch: 104 acc: 0.788000 acctrain: 1.000000 
+[00:51:11.555] loss 0.085613 : 
+[00:51:11.555] epoch: 105 acc: 0.788000 acctrain: 1.000000 
+[00:51:13.321] loss 0.084385 : 
+[00:51:13.321] epoch: 106 acc: 0.788000 acctrain: 1.000000 
+[00:51:15.084] loss 0.039821 : 
+[00:51:15.084] epoch: 107 acc: 0.788000 acctrain: 1.000000 
+[00:51:16.847] loss 0.051796 : 
+[00:51:16.847] epoch: 108 acc: 0.788000 acctrain: 1.000000 
+[00:51:18.617] loss 0.099348 : 
+[00:51:18.617] epoch: 109 acc: 0.788000 acctrain: 1.000000 
+[00:51:20.383] loss 0.060431 : 
+[00:51:20.384] epoch: 110 acc: 0.788000 acctrain: 1.000000 
+[00:51:22.142] loss 0.089992 : 
+[00:51:22.142] epoch: 111 acc: 0.788000 acctrain: 1.000000 
+[00:51:23.904] loss 0.112904 : 
+[00:51:23.904] epoch: 112 acc: 0.788000 acctrain: 1.000000 
+[00:51:25.673] loss 0.036007 : 
+[00:51:25.673] epoch: 113 acc: 0.788000 acctrain: 1.000000 
+[00:51:27.433] loss 0.131715 : 
+[00:51:27.433] epoch: 114 acc: 0.788000 acctrain: 1.000000 
+[00:51:29.201] loss 0.055458 : 
+[00:51:29.201] epoch: 115 acc: 0.788000 acctrain: 1.000000 
+[00:51:30.960] loss 0.032367 : 
+[00:51:30.961] epoch: 116 acc: 0.788000 acctrain: 1.000000 
+[00:51:32.713] loss 0.072294 : 
+[00:51:32.713] epoch: 117 acc: 0.788000 acctrain: 1.000000 
+[00:51:34.465] loss 0.109508 : 
+[00:51:34.466] epoch: 118 acc: 0.788000 acctrain: 1.000000 
+[00:51:36.217] loss 0.045123 : 
+[00:51:36.218] epoch: 119 acc: 0.788000 acctrain: 1.000000 
+[00:51:37.976] loss 0.054008 : 
+[00:51:37.976] epoch: 120 acc: 0.788000 acctrain: 1.000000 
+[00:51:39.769] loss 0.046266 : 
+[00:51:39.769] epoch: 121 acc: 0.788000 acctrain: 1.000000 
+[00:51:41.527] loss 0.083813 : 
+[00:51:41.527] epoch: 122 acc: 0.788000 acctrain: 1.000000 
+[00:51:43.283] loss 0.125150 : 
+[00:51:43.283] epoch: 123 acc: 0.788000 acctrain: 1.000000 
+[00:51:45.038] loss 0.055597 : 
+[00:51:45.038] epoch: 124 acc: 0.788000 acctrain: 1.000000 
+[00:51:46.796] loss 0.107587 : 
+[00:51:46.796] epoch: 125 acc: 0.788000 acctrain: 1.000000 
+[00:51:48.554] loss 0.088698 : 
+[00:51:48.554] epoch: 126 acc: 0.788000 acctrain: 1.000000 
+[00:51:50.315] loss 0.053086 : 
+[00:51:50.315] epoch: 127 acc: 0.788000 acctrain: 1.000000 
+[00:52:16.799] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[00:54:00.056] loss 1.946475 : 
+[00:54:00.056] epoch: 0 acc: 0.130000 acctrain: 0.142857 
+[00:54:05.200] loss 1.347154 : 
+[00:54:05.200] epoch: 1 acc: 0.444000 acctrain: 0.685714 
+[00:54:10.491] loss 9.391263 : 
+[00:54:10.491] epoch: 2 acc: 0.461000 acctrain: 0.535714 
+[00:54:15.784] loss 3.464184 : 
+[00:54:15.784] epoch: 3 acc: 0.343000 acctrain: 0.550000 
+[00:54:21.071] loss 1.047862 : 
+[00:54:21.071] epoch: 4 acc: 0.379000 acctrain: 0.742857 
+[00:54:26.361] loss 0.807417 : 
+[00:54:26.362] epoch: 5 acc: 0.443000 acctrain: 0.850000 
+[00:54:31.649] loss 0.291161 : 
+[00:54:31.649] epoch: 6 acc: 0.596000 acctrain: 0.942857 
+[00:54:36.933] loss 0.391333 : 
+[00:54:36.934] epoch: 7 acc: 0.723000 acctrain: 0.964286 
+[00:54:42.222] loss 0.433698 : 
+[00:54:42.223] epoch: 8 acc: 0.768000 acctrain: 0.971429 
+[00:54:47.508] loss 0.150908 : 
+[00:54:47.508] epoch: 9 acc: 0.780000 acctrain: 0.992857 
+[00:54:52.800] loss 0.171083 : 
+[00:54:52.800] epoch: 10 acc: 0.756000 acctrain: 0.992857 
+[00:54:58.091] loss 0.176225 : 
+[00:54:58.092] epoch: 11 acc: 0.696000 acctrain: 1.000000 
+[00:55:03.385] loss 0.489077 : 
+[00:55:03.385] epoch: 12 acc: 0.671000 acctrain: 0.992857 
+[00:55:08.677] loss 0.022472 : 
+[00:55:08.677] epoch: 13 acc: 0.730000 acctrain: 1.000000 
+[00:55:13.963] loss 0.108138 : 
+[00:55:13.964] epoch: 14 acc: 0.775000 acctrain: 1.000000 
+[00:55:19.250] loss 0.010286 : 
+[00:55:19.250] epoch: 15 acc: 0.791000 acctrain: 1.000000 
+[00:55:24.537] loss 0.159900 : 
+[00:55:24.537] epoch: 16 acc: 0.804000 acctrain: 0.992857 
+[00:55:29.822] loss 0.038483 : 
+[00:55:29.822] epoch: 17 acc: 0.808000 acctrain: 1.000000 
+[00:55:35.113] loss 0.055539 : 
+[00:55:35.113] epoch: 18 acc: 0.802000 acctrain: 1.000000 
+[00:55:40.402] loss 0.007010 : 
+[00:55:40.403] epoch: 19 acc: 0.780000 acctrain: 1.000000 
+[00:55:45.695] loss 0.072542 : 
+[00:55:45.695] epoch: 20 acc: 0.741000 acctrain: 1.000000 
+[00:55:50.983] loss 0.015691 : 
+[00:55:50.983] epoch: 21 acc: 0.739000 acctrain: 1.000000 
+[00:55:56.269] loss 0.007204 : 
+[00:55:56.270] epoch: 22 acc: 0.738000 acctrain: 1.000000 
+[00:56:01.557] loss 0.062050 : 
+[00:56:01.557] epoch: 23 acc: 0.741000 acctrain: 1.000000 
+[00:56:06.842] loss 0.045649 : 
+[00:56:06.842] epoch: 24 acc: 0.743000 acctrain: 1.000000 
+[00:56:12.129] loss 0.046245 : 
+[00:56:12.129] epoch: 25 acc: 0.746000 acctrain: 1.000000 
+[00:56:17.421] loss 0.024030 : 
+[00:56:17.421] epoch: 26 acc: 0.753000 acctrain: 1.000000 
+[00:56:22.715] loss 0.007903 : 
+[00:56:22.715] epoch: 27 acc: 0.760000 acctrain: 1.000000 
+[00:56:28.008] loss 0.026337 : 
+[00:56:28.008] epoch: 28 acc: 0.767000 acctrain: 1.000000 
+[00:56:33.301] loss 0.029169 : 
+[00:56:33.301] epoch: 29 acc: 0.768000 acctrain: 1.000000 
+[00:56:38.590] loss 0.000145 : 
+[00:56:38.590] epoch: 30 acc: 0.768000 acctrain: 1.000000 
+[00:56:43.875] loss 0.001384 : 
+[00:56:43.875] epoch: 31 acc: 0.768000 acctrain: 1.000000 
+[00:56:49.161] loss 0.002096 : 
+[00:56:49.161] epoch: 32 acc: 0.769000 acctrain: 1.000000 
+[00:56:54.448] loss 0.001265 : 
+[00:56:54.449] epoch: 33 acc: 0.771000 acctrain: 1.000000 
+[00:56:59.733] loss 0.001232 : 
+[00:56:59.733] epoch: 34 acc: 0.769000 acctrain: 1.000000 
+[00:57:05.022] loss 0.001509 : 
+[00:57:05.022] epoch: 35 acc: 0.769000 acctrain: 1.000000 
+[00:57:10.311] loss 0.011246 : 
+[00:57:10.312] epoch: 36 acc: 0.773000 acctrain: 1.000000 
+[00:57:15.603] loss 0.030514 : 
+[00:57:15.604] epoch: 37 acc: 0.771000 acctrain: 1.000000 
+[00:57:20.891] loss 0.000658 : 
+[00:57:20.891] epoch: 38 acc: 0.774000 acctrain: 1.000000 
+[00:57:26.176] loss 0.000651 : 
+[00:57:26.176] epoch: 39 acc: 0.773000 acctrain: 1.000000 
+[00:57:31.462] loss 0.001083 : 
+[00:57:31.463] epoch: 40 acc: 0.771000 acctrain: 1.000000 
+[00:57:36.746] loss 0.030866 : 
+[00:57:36.746] epoch: 41 acc: 0.771000 acctrain: 1.000000 
+[00:57:42.036] loss 0.000605 : 
+[00:57:42.036] epoch: 42 acc: 0.770000 acctrain: 1.000000 
+[00:57:47.327] loss 0.000477 : 
+[00:57:47.327] epoch: 43 acc: 0.771000 acctrain: 1.000000 
+[00:57:52.619] loss 0.000139 : 
+[00:57:52.619] epoch: 44 acc: 0.773000 acctrain: 1.000000 
+[00:57:57.907] loss 0.009690 : 
+[00:57:57.907] epoch: 45 acc: 0.771000 acctrain: 1.000000 
+[00:58:03.198] loss 0.053124 : 
+[00:58:03.198] epoch: 46 acc: 0.772000 acctrain: 1.000000 
+[00:58:08.485] loss 0.006620 : 
+[00:58:08.485] epoch: 47 acc: 0.773000 acctrain: 1.000000 
+[00:58:13.773] loss 0.001917 : 
+[00:58:13.773] epoch: 48 acc: 0.772000 acctrain: 1.000000 
+[00:58:19.059] loss 0.007402 : 
+[00:58:19.059] epoch: 49 acc: 0.771000 acctrain: 1.000000 
+[00:58:24.343] loss 0.000545 : 
+[00:58:24.343] epoch: 50 acc: 0.771000 acctrain: 1.000000 
+[00:58:29.630] loss 0.007318 : 
+[00:58:29.630] epoch: 51 acc: 0.771000 acctrain: 1.000000 
+[00:58:34.918] loss 0.001356 : 
+[00:58:34.919] epoch: 52 acc: 0.769000 acctrain: 1.000000 
+[00:58:40.207] loss 0.010867 : 
+[00:58:40.208] epoch: 53 acc: 0.769000 acctrain: 1.000000 
+[00:58:45.494] loss 0.000102 : 
+[00:58:45.494] epoch: 54 acc: 0.769000 acctrain: 1.000000 
+[00:58:50.779] loss 0.000166 : 
+[00:58:50.780] epoch: 55 acc: 0.768000 acctrain: 1.000000 
+[00:58:56.068] loss 0.001412 : 
+[00:58:56.068] epoch: 56 acc: 0.769000 acctrain: 1.000000 
+[00:59:01.351] loss 0.000120 : 
+[00:59:01.351] epoch: 57 acc: 0.769000 acctrain: 1.000000 
+[00:59:06.646] loss 0.000329 : 
+[00:59:06.646] epoch: 58 acc: 0.769000 acctrain: 1.000000 
+[00:59:11.938] loss 0.001025 : 
+[00:59:11.939] epoch: 59 acc: 0.769000 acctrain: 1.000000 
+[00:59:17.232] loss 0.000123 : 
+[00:59:17.232] epoch: 60 acc: 0.768000 acctrain: 1.000000 
+[00:59:22.522] loss 0.000335 : 
+[00:59:22.522] epoch: 61 acc: 0.768000 acctrain: 1.000000 
+[00:59:34.492] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[01:01:02.734] loss 1.946066 : 
+[01:01:04.708] epoch: 0 acc: 0.103000 acctrain: 0.142857 
+[01:01:06.814] loss 1.053473 : 
+[01:01:06.814] epoch: 1 acc: 0.549000 acctrain: 0.835714 
+[01:01:09.069] loss 2.045127 : 
+[01:01:09.069] epoch: 2 acc: 0.495000 acctrain: 0.700000 
+[01:01:11.337] loss 1.113551 : 
+[01:01:11.337] epoch: 3 acc: 0.544000 acctrain: 0.842857 
+[01:01:13.606] loss 1.220961 : 
+[01:01:13.606] epoch: 4 acc: 0.646000 acctrain: 0.857143 
+[01:01:15.886] loss 0.849166 : 
+[01:01:15.886] epoch: 5 acc: 0.425000 acctrain: 0.850000 
+[01:01:18.155] loss 0.298604 : 
+[01:01:18.155] epoch: 6 acc: 0.624000 acctrain: 0.985714 
+[01:01:20.431] loss 0.123448 : 
+[01:01:20.431] epoch: 7 acc: 0.664000 acctrain: 1.000000 
+[01:01:22.694] loss 0.076223 : 
+[01:01:22.694] epoch: 8 acc: 0.705000 acctrain: 1.000000 
+[01:01:24.949] loss 0.162572 : 
+[01:01:24.949] epoch: 9 acc: 0.746000 acctrain: 1.000000 
+[01:01:27.211] loss 0.131690 : 
+[01:01:27.211] epoch: 10 acc: 0.774000 acctrain: 1.000000 
+[01:01:29.479] loss 0.075401 : 
+[01:01:29.510] epoch: 11 acc: 0.779000 acctrain: 1.000000 
+[01:01:31.769] loss 0.006091 : 
+[01:01:31.769] epoch: 12 acc: 0.782000 acctrain: 1.000000 
+[01:01:34.037] loss 0.096190 : 
+[01:01:34.037] epoch: 13 acc: 0.769000 acctrain: 0.992857 
+[01:01:36.311] loss 0.093566 : 
+[01:01:36.311] epoch: 14 acc: 0.778000 acctrain: 0.992857 
+[01:01:38.603] loss 0.015519 : 
+[01:01:38.603] epoch: 15 acc: 0.775000 acctrain: 1.000000 
+[01:01:40.871] loss 0.008097 : 
+[01:01:40.871] epoch: 16 acc: 0.766000 acctrain: 1.000000 
+[01:01:43.132] loss 0.000749 : 
+[01:01:43.133] epoch: 17 acc: 0.766000 acctrain: 1.000000 
+[01:01:45.408] loss 0.001124 : 
+[01:01:45.408] epoch: 18 acc: 0.752000 acctrain: 1.000000 
+[01:01:47.678] loss 0.023617 : 
+[01:01:47.679] epoch: 19 acc: 0.740000 acctrain: 1.000000 
+[01:01:49.941] loss 0.002964 : 
+[01:01:49.943] epoch: 20 acc: 0.735000 acctrain: 1.000000 
+[01:01:52.209] loss 0.025542 : 
+[01:01:52.209] epoch: 21 acc: 0.736000 acctrain: 1.000000 
+[01:01:54.465] loss 0.015004 : 
+[01:01:54.466] epoch: 22 acc: 0.734000 acctrain: 1.000000 
+[01:01:56.727] loss 0.001454 : 
+[01:01:56.727] epoch: 23 acc: 0.731000 acctrain: 1.000000 
+[01:01:59.004] loss 0.015289 : 
+[01:01:59.004] epoch: 24 acc: 0.733000 acctrain: 1.000000 
+[01:02:01.262] loss 0.024499 : 
+[01:02:01.262] epoch: 25 acc: 0.734000 acctrain: 1.000000 
+[01:02:03.536] loss 0.001508 : 
+[01:02:03.536] epoch: 26 acc: 0.735000 acctrain: 1.000000 
+[01:02:05.808] loss 0.000333 : 
+[01:02:05.808] epoch: 27 acc: 0.736000 acctrain: 1.000000 
+[01:02:08.076] loss 0.048025 : 
+[01:02:08.076] epoch: 28 acc: 0.737000 acctrain: 1.000000 
+[01:02:10.343] loss 0.001447 : 
+[01:02:10.343] epoch: 29 acc: 0.739000 acctrain: 1.000000 
+[01:02:12.612] loss 0.021615 : 
+[01:02:12.612] epoch: 30 acc: 0.739000 acctrain: 1.000000 
+[01:02:14.890] loss 0.031740 : 
+[01:02:14.890] epoch: 31 acc: 0.737000 acctrain: 1.000000 
+[01:02:17.169] loss 0.001103 : 
+[01:02:17.169] epoch: 32 acc: 0.740000 acctrain: 1.000000 
+[01:02:19.452] loss 0.045521 : 
+[01:02:19.452] epoch: 33 acc: 0.740000 acctrain: 1.000000 
+[01:02:21.724] loss 0.000064 : 
+[01:02:21.725] epoch: 34 acc: 0.740000 acctrain: 1.000000 
+[01:02:24.002] loss 0.000073 : 
+[01:02:24.003] epoch: 35 acc: 0.741000 acctrain: 1.000000 
+[01:02:26.262] loss 0.015375 : 
+[01:02:26.263] epoch: 36 acc: 0.741000 acctrain: 1.000000 
+[01:02:28.533] loss 0.000937 : 
+[01:02:28.533] epoch: 37 acc: 0.739000 acctrain: 1.000000 
+[01:02:30.795] loss 0.000326 : 
+[01:02:30.795] epoch: 38 acc: 0.740000 acctrain: 1.000000 
+[01:02:33.072] loss 0.004728 : 
+[01:02:33.072] epoch: 39 acc: 0.743000 acctrain: 1.000000 
+[01:02:54.195] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[01:04:16.601] loss 1.946637 : 
+[01:04:16.601] epoch: 0 acc: 0.149000 acctrain: 0.142857 
+[01:04:19.909] loss 1.722250 : 
+[01:04:19.909] epoch: 1 acc: 0.362000 acctrain: 0.557143 
+[01:04:23.452] loss 5.003002 : 
+[01:04:23.452] epoch: 2 acc: 0.461000 acctrain: 0.621429 
+[01:04:26.993] loss 5.714969 : 
+[01:04:26.993] epoch: 3 acc: 0.224000 acctrain: 0.371429 
+[01:04:30.533] loss 0.800938 : 
+[01:04:30.533] epoch: 4 acc: 0.649000 acctrain: 0.871429 
+[01:04:34.065] loss 0.893403 : 
+[01:04:34.065] epoch: 5 acc: 0.526000 acctrain: 0.871429 
+[01:04:37.598] loss 0.823334 : 
+[01:04:37.598] epoch: 6 acc: 0.552000 acctrain: 0.864286 
+[01:04:41.133] loss 0.289903 : 
+[01:04:41.133] epoch: 7 acc: 0.657000 acctrain: 0.942857 
+[01:04:44.669] loss 0.366739 : 
+[01:04:44.670] epoch: 8 acc: 0.773000 acctrain: 0.992857 
+[01:04:48.206] loss 0.116670 : 
+[01:04:48.206] epoch: 9 acc: 0.803000 acctrain: 0.992857 
+[01:04:51.741] loss 0.287188 : 
+[01:04:51.741] epoch: 10 acc: 0.774000 acctrain: 0.992857 
+[01:04:55.274] loss 0.059070 : 
+[01:04:55.274] epoch: 11 acc: 0.736000 acctrain: 1.000000 
+[01:04:58.808] loss 0.014714 : 
+[01:04:58.808] epoch: 12 acc: 0.704000 acctrain: 1.000000 
+[01:05:02.343] loss 0.114199 : 
+[01:05:02.343] epoch: 13 acc: 0.683000 acctrain: 1.000000 
+[01:05:05.879] loss 0.103163 : 
+[01:05:05.879] epoch: 14 acc: 0.693000 acctrain: 1.000000 
+[01:05:09.418] loss 0.081107 : 
+[01:05:09.418] epoch: 15 acc: 0.696000 acctrain: 1.000000 
+[01:05:12.957] loss 0.001053 : 
+[01:05:12.957] epoch: 16 acc: 0.725000 acctrain: 1.000000 
+[01:05:16.496] loss 0.039034 : 
+[01:05:16.496] epoch: 17 acc: 0.733000 acctrain: 1.000000 
+[01:05:20.033] loss 0.036432 : 
+[01:05:20.034] epoch: 18 acc: 0.758000 acctrain: 1.000000 
+[01:05:23.566] loss 0.008178 : 
+[01:05:23.566] epoch: 19 acc: 0.768000 acctrain: 1.000000 
+[01:05:27.099] loss 0.000347 : 
+[01:05:27.099] epoch: 20 acc: 0.766000 acctrain: 1.000000 
+[01:05:30.634] loss 0.000506 : 
+[01:05:30.634] epoch: 21 acc: 0.765000 acctrain: 1.000000 
+[01:05:34.168] loss 0.001314 : 
+[01:05:34.168] epoch: 22 acc: 0.765000 acctrain: 1.000000 
+[01:05:37.705] loss 0.000294 : 
+[01:05:37.705] epoch: 23 acc: 0.761000 acctrain: 1.000000 
+[01:05:41.240] loss 0.000212 : 
+[01:05:41.240] epoch: 24 acc: 0.759000 acctrain: 1.000000 
+[01:05:44.776] loss 0.001442 : 
+[01:05:44.777] epoch: 25 acc: 0.760000 acctrain: 1.000000 
+[01:05:48.311] loss 0.029312 : 
+[01:05:48.311] epoch: 26 acc: 0.760000 acctrain: 1.000000 
+[01:05:51.844] loss 0.000238 : 
+[01:05:51.844] epoch: 27 acc: 0.759000 acctrain: 1.000000 
+[01:05:55.379] loss 0.008901 : 
+[01:05:55.379] epoch: 28 acc: 0.759000 acctrain: 1.000000 
+[01:05:58.914] loss 0.003768 : 
+[01:05:58.914] epoch: 29 acc: 0.761000 acctrain: 1.000000 
+[01:06:02.452] loss 0.070692 : 
+[01:06:02.452] epoch: 30 acc: 0.763000 acctrain: 1.000000 
+[01:06:05.989] loss 0.001706 : 
+[01:06:05.989] epoch: 31 acc: 0.762000 acctrain: 1.000000 
+[01:06:09.528] loss 0.001152 : 
+[01:06:09.528] epoch: 32 acc: 0.763000 acctrain: 1.000000 
+[01:06:13.065] loss 0.009947 : 
+[01:06:13.065] epoch: 33 acc: 0.766000 acctrain: 1.000000 
+[01:06:16.603] loss 0.002686 : 
+[01:06:16.603] epoch: 34 acc: 0.767000 acctrain: 1.000000 
+[01:06:20.135] loss 0.001928 : 
+[01:06:20.135] epoch: 35 acc: 0.766000 acctrain: 1.000000 
+[01:06:23.666] loss 0.000183 : 
+[01:06:23.667] epoch: 36 acc: 0.767000 acctrain: 1.000000 
+[01:06:27.200] loss 0.009327 : 
+[01:06:27.200] epoch: 37 acc: 0.766000 acctrain: 1.000000 
+[01:06:30.736] loss 0.063424 : 
+[01:06:30.736] epoch: 38 acc: 0.768000 acctrain: 1.000000 
+[01:06:34.272] loss 0.012441 : 
+[01:06:34.272] epoch: 39 acc: 0.769000 acctrain: 1.000000 
+[01:06:37.807] loss 0.029686 : 
+[01:06:37.807] epoch: 40 acc: 0.765000 acctrain: 1.000000 
+[01:06:41.340] loss 0.001350 : 
+[01:06:41.340] epoch: 41 acc: 0.763000 acctrain: 1.000000 
+[01:06:44.874] loss 0.000434 : 
+[01:06:44.874] epoch: 42 acc: 0.762000 acctrain: 1.000000 
+[01:06:48.406] loss 0.002977 : 
+[01:06:48.406] epoch: 43 acc: 0.762000 acctrain: 1.000000 
+[01:06:51.942] loss 0.023339 : 
+[01:06:51.942] epoch: 44 acc: 0.762000 acctrain: 1.000000 
+[01:06:55.476] loss 0.000372 : 
+[01:06:55.476] epoch: 45 acc: 0.761000 acctrain: 1.000000 
+[01:06:59.012] loss 0.045101 : 
+[01:06:59.013] epoch: 46 acc: 0.761000 acctrain: 1.000000 
+[01:07:02.551] loss 0.000444 : 
+[01:07:02.551] epoch: 47 acc: 0.761000 acctrain: 1.000000 
+[01:07:06.089] loss 0.036462 : 
+[01:07:06.089] epoch: 48 acc: 0.761000 acctrain: 1.000000 
+[01:07:09.625] loss 0.026126 : 
+[01:07:09.625] epoch: 49 acc: 0.760000 acctrain: 1.000000 
+[01:07:13.162] loss 0.000132 : 
+[01:07:13.162] epoch: 50 acc: 0.760000 acctrain: 1.000000 
+[01:07:16.695] loss 0.003298 : 
+[01:07:16.695] epoch: 51 acc: 0.760000 acctrain: 1.000000 
+[01:07:20.229] loss 0.020393 : 
+[01:07:20.229] epoch: 52 acc: 0.759000 acctrain: 1.000000 
+[01:07:23.762] loss 0.000368 : 
+[01:07:23.851] epoch: 53 acc: 0.759000 acctrain: 1.000000 
+[01:07:27.385] loss 0.016425 : 
+[01:07:27.385] epoch: 54 acc: 0.760000 acctrain: 1.000000 
+[01:07:30.922] loss 0.002454 : 
+[01:07:30.922] epoch: 55 acc: 0.761000 acctrain: 1.000000 
+[01:07:34.458] loss 0.000319 : 
+[01:07:34.458] epoch: 56 acc: 0.762000 acctrain: 1.000000 
+[01:07:37.994] loss 0.006319 : 
+[01:07:37.994] epoch: 57 acc: 0.762000 acctrain: 1.000000 
+[01:07:41.529] loss 0.000613 : 
+[01:07:41.530] epoch: 58 acc: 0.762000 acctrain: 1.000000 
+[01:07:45.179] loss 0.000789 : 
+[01:07:45.180] epoch: 59 acc: 0.761000 acctrain: 1.000000 
+[01:07:48.714] loss 0.022541 : 
+[01:07:48.714] epoch: 60 acc: 0.760000 acctrain: 1.000000 
+[01:07:52.247] loss 0.000125 : 
+[01:07:52.247] epoch: 61 acc: 0.760000 acctrain: 1.000000 
+[01:07:55.785] loss 0.000380 : 
+[01:07:55.785] epoch: 62 acc: 0.760000 acctrain: 1.000000 
+[01:07:59.324] loss 0.001233 : 
+[01:07:59.324] epoch: 63 acc: 0.760000 acctrain: 1.000000 
+[01:08:02.861] loss 0.006786 : 
+[01:08:02.861] epoch: 64 acc: 0.760000 acctrain: 1.000000 
+[01:08:05.258] Namespace(batchsize=4, data_path='/DATA7_DB7/data/gjliu/dataset/PROTEINS', dataset='CORA', epochs=10000, gstcoe_norml='MS', log_path='/DB/rhome/gjliu/workspace/graph_scattering/log', midnum=64, numLayers=5, numScales=3, reduction_mode='simple', sample='umin', split='train', test_times=5, tips='original', variation=3, waytogetphi='load', workers=1)
+[01:08:06.400] loss 0.000379 : 
+[01:08:11.971] epoch: 65 acc: 0.760000 acctrain: 1.000000 
+[01:08:15.507] loss 0.001629 : 
+[01:08:15.507] epoch: 66 acc: 0.759000 acctrain: 1.000000 
+[01:08:19.041] loss 0.015157 : 
+[01:08:19.041] epoch: 67 acc: 0.759000 acctrain: 1.000000 
+[01:08:22.574] loss 0.000063 : 
+[01:08:22.574] epoch: 68 acc: 0.759000 acctrain: 1.000000 
+[01:08:26.107] loss 0.000130 : 
+[01:08:26.107] epoch: 69 acc: 0.759000 acctrain: 1.000000 
+[01:08:29.642] loss 0.001308 : 
+[01:08:29.642] epoch: 70 acc: 0.759000 acctrain: 1.000000 
+[01:08:33.180] loss 0.000745 : 
+[01:08:33.180] epoch: 71 acc: 0.759000 acctrain: 1.000000 
+[01:08:36.716] loss 0.000811 : 
+[01:08:36.717] epoch: 72 acc: 0.759000 acctrain: 1.000000 
+[01:08:40.254] loss 0.000057 : 
+[01:08:40.254] epoch: 73 acc: 0.759000 acctrain: 1.000000 
+[01:08:43.787] loss 0.000089 : 
+[01:08:43.788] epoch: 74 acc: 0.758000 acctrain: 1.000000 
+[01:08:47.321] loss 0.000234 : 
+[01:08:47.321] epoch: 75 acc: 0.758000 acctrain: 1.000000 
+[01:08:50.855] loss 0.017727 : 
+[01:08:50.855] epoch: 76 acc: 0.758000 acctrain: 1.000000 
+[01:08:54.390] loss 0.001372 : 
+[01:08:54.390] epoch: 77 acc: 0.758000 acctrain: 1.000000 
+[01:08:57.928] loss 0.001566 : 
+[01:08:57.928] epoch: 78 acc: 0.757000 acctrain: 1.000000 
+[01:09:01.467] loss 0.003084 : 
+[01:09:01.467] epoch: 79 acc: 0.757000 acctrain: 1.000000 
+[01:09:05.006] loss 0.029743 : 
+[01:09:05.006] epoch: 80 acc: 0.757000 acctrain: 1.000000 
+[01:09:08.543] loss 0.000028 : 
+[01:09:08.543] epoch: 81 acc: 0.757000 acctrain: 1.000000 
+[01:09:12.080] loss 0.002436 : 
+[01:09:12.080] epoch: 82 acc: 0.757000 acctrain: 1.000000 
+[01:09:15.614] loss 0.001847 : 
+[01:09:15.614] epoch: 83 acc: 0.757000 acctrain: 1.000000 
+[01:09:19.147] loss 0.014229 : 
+[01:09:19.147] epoch: 84 acc: 0.757000 acctrain: 1.000000 
+[01:09:22.679] loss 0.000092 : 
+[01:09:22.679] epoch: 85 acc: 0.757000 acctrain: 1.000000 
+[01:09:26.212] loss 0.014714 : 
+[01:09:26.212] epoch: 86 acc: 0.757000 acctrain: 1.000000 
+[01:09:29.748] loss 0.000362 : 
+[01:09:29.748] epoch: 87 acc: 0.757000 acctrain: 1.000000 
+[01:09:33.284] loss 0.000036 : 
+[01:09:33.285] epoch: 88 acc: 0.757000 acctrain: 1.000000 
+[01:09:36.822] loss 0.002693 : 
+[01:09:36.822] epoch: 89 acc: 0.757000 acctrain: 1.000000 
+[01:09:40.356] loss 0.000153 : 
+[01:09:40.357] epoch: 90 acc: 0.757000 acctrain: 1.000000 
+[01:09:43.889] loss 0.006769 : 
+[01:09:43.889] epoch: 91 acc: 0.757000 acctrain: 1.000000 
+[01:09:47.423] loss 0.000156 : 
+[01:09:47.423] epoch: 92 acc: 0.757000 acctrain: 1.000000 
+[01:09:50.960] loss 0.000679 : 
+[01:09:50.960] epoch: 93 acc: 0.757000 acctrain: 1.000000 
+[01:09:54.498] loss 0.025454 : 
+[01:09:54.498] epoch: 94 acc: 0.757000 acctrain: 1.000000 
+[01:09:58.035] loss 0.000177 : 
+[01:09:58.036] epoch: 95 acc: 0.757000 acctrain: 1.000000 
+[01:10:01.575] loss 0.000376 : 
+[01:10:01.575] epoch: 96 acc: 0.757000 acctrain: 1.000000 
+[01:10:05.112] loss 0.000405 : 
+[01:10:05.113] epoch: 97 acc: 0.757000 acctrain: 1.000000 
+[01:10:08.649] loss 0.003474 : 
+[01:10:08.649] epoch: 98 acc: 0.757000 acctrain: 1.000000 
+[01:10:12.183] loss 0.000138 : 
+[01:10:12.183] epoch: 99 acc: 0.757000 acctrain: 1.000000 
+[01:10:15.717] loss 0.001330 : 
+[01:10:15.717] epoch: 100 acc: 0.757000 acctrain: 1.000000 
+[01:10:19.251] loss 0.000060 : 
+[01:10:19.251] epoch: 101 acc: 0.757000 acctrain: 1.000000 
+[01:10:22.783] loss 0.000212 : 
+[01:10:22.784] epoch: 102 acc: 0.757000 acctrain: 1.000000 
