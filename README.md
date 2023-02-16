@@ -1,1 +1,1 @@
-# Multiscale-graph-scattering-transform
+# graph-scattering-transform
