@@ -6,4 +6,3 @@ Including code implementation for graph scattering transform on 4 datasets: coll
 
 ## Environment
 python=3.6
-torch=1.0
